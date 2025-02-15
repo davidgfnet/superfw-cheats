@@ -1,0 +1,62 @@
+{
+  "filename": "Donkey Kong Country (USA, Europe).gba",
+  "game-codes": [
+    "A5NE-00",
+    "A5NP-00",
+    "A5NJ-00"
+  ],
+  "codes": [
+    {
+      "title": "Transparent",
+      "code": "3300133C+0002"
+    },
+    {
+      "title": "Always have partner",
+      "code": "73000FD6+0000 33000FD6+0001"
+    },
+    {
+      "title": "Infinite lives",
+      "code": "33000FC8+0009"
+    },
+    {
+      "title": "Have K.O.N.G letters",
+      "code": "43000F34+0002 00000004+0004"
+    },
+    {
+      "title": "1 Winky = 3",
+      "code": "33001007+0002"
+    },
+    {
+      "title": "1 Rambi = 3",
+      "code": "33001004+0002"
+    },
+    {
+      "title": "1 Expresso = 3",
+      "code": "33001005+0002"
+    },
+    {
+      "title": "1 Enguarde = 3",
+      "code": "33001006+0002"
+    },
+    {
+      "title": "Scrap Book complete",
+      "code": "43001176+FFFF 00000004+0002 3300117E+00FF"
+    },
+    {
+      "title": "Access Funky",
+      "code": "33001187+0001"
+    },
+    {
+      "title": "Access all Areas",
+      "code": "83001040+FFFF"
+    },
+    {
+      "title": "Access all Stages",
+      "code": "43001036+FFFF 00000005+0002"
+    },
+    {
+      "title": "All Stage Bonus's Found",
+      "code": "33001008+00F0 3300101D+00FF 4300101E+FFFF 00000004+0002"
+    }
+  ]
+}

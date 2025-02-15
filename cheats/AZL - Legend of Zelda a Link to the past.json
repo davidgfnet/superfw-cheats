@@ -1,0 +1,161 @@
+{
+  "filename": "Legend of Zelda, A Link to the Past Four Swords (USA, Europe).gba",
+  "game-codes": [
+    "AZLE-00",
+    "AZLP-00"
+  ],
+  "codes": [
+    {
+      "title": "Access Four-Swords dungeon",
+      "code": "830031D8+0008"
+    },
+    {
+      "title": "Have all sword pieces",
+      "code": "330038E3+000F"
+    },
+    {
+      "title": "Max rupees",
+      "code": "82002340+03E7"
+    },
+    {
+      "title": "Max health",
+      "code": "3200234C+00A0"
+    },
+    {
+      "title": "Unlimited health",
+      "code": "3200234D+00A0"
+    },
+    {
+      "title": "Max Unlimited health",
+      "code": "8200234C+A0A0"
+    },
+    {
+      "title": "Unlimited magic",
+      "code": "3200234E+007F"
+    },
+    {
+      "title": "Unlimited small keys",
+      "code": "3200234F+0009"
+    },
+    {
+      "title": "Have hookshot",
+      "code": "32002322+0001"
+    },
+    {
+      "title": "Unlimited bombs",
+      "code": "32002323+0063"
+    },
+    {
+      "title": "Have Fire-Rod",
+      "code": "32002326+0001"
+    },
+    {
+      "title": "Have Ice-Rod",
+      "code": "32002327+0001"
+    },
+    {
+      "title": "Have Bombos medallion",
+      "code": "32002328+0001"
+    },
+    {
+      "title": "Have Ether medallion",
+      "code": "32002329+0001"
+    },
+    {
+      "title": "Have Quake medallion",
+      "code": "3200232A+0001"
+    },
+    {
+      "title": "Have Lamp",
+      "code": "3200232C+0001"
+    },
+    {
+      "title": "Have Magic Hammer",
+      "code": "3200232D+0001"
+    },
+    {
+      "title": "Have Flute",
+      "code": "3200232E+0002"
+    },
+    {
+      "title": "Have Bug Catching Net",
+      "code": "3200232F+0001"
+    },
+    {
+      "title": "Have Book of Mudora",
+      "code": "32002330+0001"
+    },
+    {
+      "title": "Have Shovel",
+      "code": "32002332+0001"
+    },
+    {
+      "title": "Have Cane of Somaria",
+      "code": "32002333+0001"
+    },
+    {
+      "title": "Have Cane of Byrna",
+      "code": "32002334+0001"
+    },
+    {
+      "title": "Have Magic Cape",
+      "code": "32002335+0001"
+    },
+    {
+      "title": "Have Magic Mirror",
+      "code": "32002336+0002"
+    },
+    {
+      "title": "Have Pegasus Boots",
+      "code": "32002339+0001"
+    },
+    {
+      "title": "Have Zora Flippers",
+      "code": "3200233A+0001"
+    },
+    {
+      "title": "Have Moon Pearl",
+      "code": "3200233B+0001"
+    },
+    {
+      "title": "Have all medals",
+      "code": "32002354+0007"
+    },
+    {
+      "title": "Infinite arrows",
+      "code": "32002357+0063"
+    },
+    {
+      "title": "Have all crystals",
+      "code": "3200235A+00FF"
+    },
+    {
+      "title": "Have 1/2 magic",
+      "code": "3200235B+0001"
+    },
+    {
+      "title": "Invincible",
+      "code": "330039DA+0001"
+    },
+    {
+      "title": "Infinite lamp light",
+      "code": "33003B6C+00C0 33003B6E+00C0 33003B70+00C0 33003B72+00C2"
+    },
+    {
+      "title": "Press Select+Up for walk through walls on",
+      "code": "74000130+03BB 83002C40+0002"
+    },
+    {
+      "title": "Press Select+Down for walk through walls off",
+      "code": "74000130+037B 83002C40+0000"
+    },
+    {
+      "title": "Press L+R+Up for Dig-Mode on",
+      "code": "74000130+00BF 33003AC4+0001"
+    },
+    {
+      "title": "Press L+R+Down for Dig-Mode off",
+      "code": "74000130+007F 33003AC4+0000"
+    }
+  ]
+}

@@ -2,6 +2,7 @@
   "filename": "Kirby and the Amazing Mirror (USA, Europe).gba",
   "game-codes": [
     "B8KE-00",
+    "B8KP-00",
     "B8KJ-00"
   ],
   "codes": [
@@ -14,7 +15,7 @@
       "code": "32020FE2+0003"
     },
     {
-      "title": "Infinite whistle",
+      "title": "Infinite battery",
       "code": "32020FBC+0003"
     },
     {
@@ -30,11 +31,11 @@
       "code": "32038970+00FF"
     },
     {
-      "title": "Have All Spray Paint In Collection",
+      "title": "Have all spray paint in Collection",
       "code": "82038974+3FFF"
     },
     {
-      "title": "Have Sound Player And All Music/Sounds In Collection",
+      "title": "Have Sound Player and all Music/Sounds In Collection",
       "code": "82038978+07FF"
     },
     {

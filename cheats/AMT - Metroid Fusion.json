@@ -1,0 +1,93 @@
+{
+  "filename": "Metroid Fusion (World).gba",
+  "game-codes": [
+    "AMTE-00",
+    "AMTP-00"
+  ],
+  "codes": [
+    {
+      "title": "Low completion time",
+      "code": "83000138+0100"
+    },
+    {
+      "title": "Stop event timer",
+      "code": "830008D8+00DA"
+    },
+    {
+      "title": "Invincible",
+      "code": "33001249+0001"
+    },
+    {
+      "title": "Fast shoot (No pause between shots)",
+      "code": "3300124E+0000"
+    },
+    {
+      "title": "Always run at super speed",
+      "code": "83001252+A001"
+    },
+    {
+      "title": "Super Dash much sooner",
+      "code": "33001253+009D"
+    },
+    {
+      "title": "Super Dash always charged",
+      "code": "330012DC+005F"
+    },
+    {
+      "title": "Moon jump",
+      "code": "74000130+03FE 83001260+0040"
+    },
+    {
+      "title": "Ininite health",
+      "code": "83001310+0833"
+    },
+    {
+      "title": "Max health",
+      "code": "83001312+0833"
+    },
+    {
+      "title": "Infinite missiles",
+      "code": "83001314+03E7"
+    },
+    {
+      "title": "Max missiles",
+      "code": "83001316+03E7"
+    },
+    {
+      "title": "Infinite Super-Bombs",
+      "code": "33001318+0063"
+    },
+    {
+      "title": "Max Super-Bombs",
+      "code": "33001319+0063"
+    },
+    {
+      "title": "Turn off all missiles/bombs",
+      "code": "3300131B+0000"
+    },
+    {
+      "title": "Have all weapons/suits/abilities",
+      "code": "4300131A+FFFF 00000003+0002"
+    },
+    {
+      "title": "100% item finding rate",
+      "code": "3300151E+0064"
+    },
+    {
+      "title": "Time is always 00:00",
+      "code": "820382E4+0000"
+    },
+    {
+      "title": "Have the final suit with no side effects",
+      "code": "83004D2C+02FF 83004D2E+01BE 83004D30+00D3 83004D36+020F 83004D40+0108 83004D44+31E8 83004D46+28A6"
+    },
+    {
+      "title": "Access Debug-Room",
+      "code": "3203821D+0007"
+    },
+    {
+      "title": "Access Debug-Room",
+      "code": "3203821F+0000"
+    }
+  ]
+}

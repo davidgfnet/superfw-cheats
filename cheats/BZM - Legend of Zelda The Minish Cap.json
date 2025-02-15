@@ -1,0 +1,73 @@
+{
+  "filename": "Legend of Zelda, The - The Minish Cap (USA, Europe).gba",
+  "game-codes": [
+    "BZME-00",
+    "BZMP-00"
+  ],
+  "codes": [
+    {
+      "title": "Infinite HP",
+      "code": "32002AEA+00A0"
+    },
+    {
+      "title": "Max HP",
+      "code": "32002AEB+00A0"
+    },
+    {
+      "title": "Infinite rupees",
+      "code": "82002B00+03E7"
+    },
+    {
+      "title": "Invincible",
+      "code": "3300119D+0003"
+    },
+    {
+      "title": "Have all Scrolls",
+      "code": "82002B44+5555"
+    },
+    {
+      "title": "Press L+A to Shrink, L+B for normal size",
+      "code": "73000FF0+0201 8300116C+0009 73000FF0+0202 8300116C+0209 7300116C+0309 8300116C+0409"
+    },
+    {
+      "title": "Press L to jump over things",
+      "code": "73000FF0+0200 3300116C+0004"
+    },
+    {
+      "title": "Have Flippers, Grip Ring, and Power Bracelets",
+      "code": "32002B43+0055"
+    },
+    {
+      "title": "Have all equipment (MUST Have Minish Cap)",
+      "code": "82002B32+5555 82002B34+5555 82002B36+5554"
+    },
+    {
+      "title": "Have all dungeon 1 Equipment",
+      "code": "32002EAD+00FF"
+    },
+    {
+      "title": "Infinite 9 Dungeon 1 Keys",
+      "code": "32002E9D+0009"
+    },
+    {
+      "title": "Have 130 Original Figurines",
+      "code": "42002B0E+FFFF 00000007+0002 82002B1E+0007 32002AF0+0082"
+    },
+    {
+      "title": "Have 129 of 130 Original Figurines",
+      "code": "42002B0E+FFFF 00000007+0002 82002B1E+0003 32002AF0+0081"
+    },
+    {
+      "title": "Have 136 Figurines",
+      "code": "42002B0E+FFFF 00000007+0002 82002B1E+01FF 32002AF0+0088"
+    },
+    {
+      "title": "Have 135 of 136 Figurines",
+      "code": "42002B0E+FFFF 00000007+0002 82002B1E+00FF 32002AF0+0087"
+    },
+    {
+      "title": "Actor Sprite",
+      "code": "33002272+0001"
+    }
+  ]
+}
