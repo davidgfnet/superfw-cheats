@@ -1,0 +1,29 @@
+name: Cheats release
+run-name: Pack all cheats in a SuperFW friendly zip
+
+on:
+  push:
+    branches: ["master"]
+
+jobs:
+  pack-cheats:
+    runs-on: ubuntu-24.04
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          submodules: 'true'
+      - name: Get short SHA
+        id: slug
+        run: echo "sha8=$(echo ${GITHUB_SHA} | cut -c1-8)" >> $GITHUB_OUTPUT
+      - name: Pack cheats
+        run: |
+          ./scripts/pack-cheats.py --input cheats/*.json --outfile superfw-cheats.zip
+          mkdir -p release
+          cd release && unzip ../superfw-cheats.zip
+      - name: Upload pack
+        if: ${{ success() }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: superfw-cheats-${{ steps.slug.outputs.sha8 }}
+          path: release/*
