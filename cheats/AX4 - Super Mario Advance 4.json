@@ -1,0 +1,222 @@
+{
+  "filename": "Super Mario Advance 4 - Super Mario Bros. 3 (USA, Europe).gba",
+  "game-codes": [
+    "AX4E-00",
+    "AX4E-01",
+    "AX4P-00",
+    "AX4P-01",
+    "AX4J-00",
+    "AX4J-01",
+    "AX4J-02"
+  ],
+  "codes": [
+    {
+      "title": "Stop timer",
+      "code": "33003D0E+0020"
+    },
+    {
+      "title": "Infinite lives (Mario)",
+      "code": "33002A6A+0062"
+    },
+    {
+      "title": "Infinite lives (Luigi)",
+      "code": "33002A6C+0062"
+    },
+    {
+      "title": "Mario always has 98 Coins",
+      "code": "33002C58+0062"
+    },
+    {
+      "title": "Luigi always has 98 Coins",
+      "code": "33002C83+0062"
+    },
+    {
+      "title": "Press L to hide behind stuff",
+      "code": "74000130+01FF 33003D06+00FF"
+    },
+    {
+      "title": "P-Meter always Full",
+      "code": "33003C9F+007F 33003F48+00FF"
+    },
+    {
+      "title": "Infinite Turns Card Matching Game",
+      "code": "33004F08+0001"
+    },
+    {
+      "title": "Press R For Pow Time",
+      "code": "74000130+02FF 33003CF8+00FF"
+    },
+    {
+      "title": "Infinite Star Power",
+      "code": "33002C2E+00FF"
+    },
+    {
+      "title": "Invincibility",
+      "code": "33003F64+0035"
+    },
+    {
+      "title": "Start with 2 of every Power Up",
+      "code": "83002C2E+0101 83002C30+0202 83002C32+0303 83002C34+0404 83002C36+0505 83002C38+0606 83002C3A+0707 83002C3C+0808 83002C3E+0909 83002C40+0A0A 83002C42+0B0B 83002C44+0C0C 83002C46+0D0D 83002C48+0E0E 83002C4A+0F0F"
+    },
+    {
+      "title": "Start With 2 Of Every Power Up (Alternate)",
+      "code": "43002C2E+0101 0101000F+0002"
+    },
+    {
+      "title": "Disappear At Level Start",
+      "code": "33003F66+0003"
+    },
+    {
+      "title": "Always float to the ground",
+      "code": "33003F61+0004"
+    },
+    {
+      "title": "Invincible and Invisible",
+      "code": "33003F64+0007"
+    },
+    {
+      "title": "Starman Type Invincibility",
+      "code": "33003F65+0005"
+    },
+    {
+      "title": "'Kicker' Mario",
+      "code": "33003F69+0007"
+    },
+    {
+      "title": "Face Forward",
+      "code": "33003F6A+000A"
+    },
+    {
+      "title": "Mario Walks Away",
+      "code": "33003F6B+0006"
+    },
+    {
+      "title": "Mario's On A Conveyor Belt",
+      "code": "33003F6E+000C"
+    },
+    {
+      "title": "Ducking Jumps",
+      "code": "33003F70+000F"
+    },
+    {
+      "title": "Splash Always On Mario",
+      "code": "33003F75+0001"
+    },
+    {
+      "title": "Kuribo's Shoe",
+      "code": "33003F77+0006"
+    },
+    {
+      "title": "Invincible Hammer Mario",
+      "code": "33003F78+0007"
+    },
+    {
+      "title": "Low Jump",
+      "code": "33003F79+0009"
+    },
+    {
+      "title": "Max P Meter (You Can't Fly)",
+      "code": "33003F7B+000A"
+    },
+    {
+      "title": "Fly Anytime",
+      "code": "33003F49+0007"
+    },
+    {
+      "title": "'Super' Mario",
+      "code": "33003FB0+0003"
+    },
+    {
+      "title": "'Hyper' Mario",
+      "code": "33003F7E+000C"
+    },
+    {
+      "title": "No Flash Starman Invincibility",
+      "code": "33003F84+0003"
+    },
+    {
+      "title": "Always Start As Small Mario",
+      "code": "33003F87+0005"
+    },
+    {
+      "title": "P Meter Won't Charge",
+      "code": "33003F91+0002"
+    },
+    {
+      "title": "Stand Still To Slide Backwards",
+      "code": "33003F3C+0001"
+    },
+    {
+      "title": "No Jump Or Coin Sounds",
+      "code": "33003F3D+000D"
+    },
+    {
+      "title": "Auto Right Movement",
+      "code": "33003F44+000F"
+    },
+    {
+      "title": "No Jump",
+      "code": "33003F45+0005"
+    },
+    {
+      "title": "Flip Mode",
+      "code": "33003F46+0006"
+    },
+    {
+      "title": "Spin Jump",
+      "code": "33003FA2+000F"
+    },
+    {
+      "title": "No Enemies Or Goal",
+      "code": "83003CF2+000F"
+    },
+    {
+      "title": "Fall Through The Ground",
+      "code": "83003CF4+0003"
+    },
+    {
+      "title": "Mario Goes Up, Mushrooms Come Down",
+      "code": "83003CFA+0005"
+    },
+    {
+      "title": "Mario Goes Up, Super Mario World P-Switch Music Plays",
+      "code": "83003CFB+000B"
+    },
+    {
+      "title": "Press L + Up To Recatch Boomerang (Sometimes Vegetables)",
+      "code": "74000130+01BF 330046C6+0004"
+    },
+    {
+      "title": "Hold L To Walk On Air",
+      "code": "D0000020+0200 33003F5D+0000"
+    },
+    {
+      "title": "Always Open Blue Toad House",
+      "code": "330037A0+0054"
+    },
+    {
+      "title": "Infinite Time To Hold Bricks",
+      "code": "33004284+0064 33004214+0064 330041A4+0064"
+    },
+    {
+      "title": "Infinite Time To Hold Turtle Shells",
+      "code": "330046E4+00BF 33004604+00CC"
+    },
+    {
+      "title": "Open All Mushroom Levels In World-E",
+      "code": "33004FD6+0050"
+    },
+    {
+      "title": "Infinite 99999 Coins In World-E",
+      "code": "8300399C+869F 3300399E+0001"
+    },
+    {
+      "title": "Have Maximum Score",
+      "code": "83003854+423F 33003856+000F"
+    },
+    {
+      "title": "Get No More Spade Matching Games",
+      "code": "83002D48+0F00 83002D4A+4042"
+    }
+  ]
+}

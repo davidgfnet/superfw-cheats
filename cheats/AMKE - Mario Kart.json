@@ -1,0 +1,109 @@
+{
+  "filename": "Mario Kart - Super Circuit (USA, Europe).gba",
+  "game-codes": [
+    "AMKE-00",
+    "AMKP-00"
+  ],
+  "codes": [
+    {
+      "title": "Always low Time",
+      "code": "83005C80+0000"
+    },
+    {
+      "title": "Infinite retries",
+      "code": "3300000C+0003"
+    },
+    {
+      "title": "Max Coins",
+      "code": "33003D10+0063"
+    },
+    {
+      "title": "Always have single Green Shell",
+      "code": "83003D12+1000"
+    },
+    {
+      "title": "Always have triple Green Shell",
+      "code": "83003D12+1001"
+    },
+    {
+      "title": "Always have tingle Red Shell",
+      "code": "83003D12+1002"
+    },
+    {
+      "title": "Always have triple Red Shell",
+      "code": "83003D12+1003"
+    },
+    {
+      "title": "Always have Blue Shell",
+      "code": "83003D12+1004"
+    },
+    {
+      "title": "Always have Single Banana",
+      "code": "83003D12+1005"
+    },
+    {
+      "title": "Always have Triple Banana",
+      "code": "83003D12+1006"
+    },
+    {
+      "title": "Always have Single Mushroom",
+      "code": "83003D12+1007"
+    },
+    {
+      "title": "Always have Triple Mushroom",
+      "code": "83003D12+1008"
+    },
+    {
+      "title": "Always have Star",
+      "code": "83003D12+100A"
+    },
+    {
+      "title": "Always have Ghost",
+      "code": "83003D12+100B"
+    },
+    {
+      "title": "Always have Lightening Bolt",
+      "code": "83003D12+100C"
+    },
+    {
+      "title": "Can Drive More Places",
+      "code": "83003C1D+0040"
+    },
+    {
+      "title": "Always Babomb (Has Mario Portrait)",
+      "code": "83003BE4+0008"
+    },
+    {
+      "title": "Always Bowser",
+      "code": "83003BE4+0002"
+    },
+    {
+      "title": "Always Donkey Kong",
+      "code": "83003BE4+0004"
+    },
+    {
+      "title": "Always Luigi",
+      "code": "83003BE4+0001"
+    },
+    {
+      "title": "Always Mario",
+      "code": "83003BE4+0000"
+    },
+    {
+      "title": "Always Princess Peach",
+      "code": "83003BE4+0003"
+    },
+    {
+      "title": "Always Toad",
+      "code": "83003BE4+0006"
+    },
+    {
+      "title": "Always Wario",
+      "code": "83003BE4+0005"
+    },
+    {
+      "title": "Always Yoshi",
+      "code": "83003BE4+0007"
+    }
+  ]
+}

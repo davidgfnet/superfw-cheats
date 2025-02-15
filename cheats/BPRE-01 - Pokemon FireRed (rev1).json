@@ -1,0 +1,64 @@
+{
+  "filename": "Pokemon - FireRed Version (USA, Europe) (Rev 1).cht",
+  "game-codes": [
+    "BPRE-01"
+  ],
+  "codes": [
+    {
+      "title": "Weak Opponents",
+      "code": "42024082+0000 00000006+0064"
+    },
+    {
+      "title": "Wild PKMN Easily Caught",
+      "code": "72023D74+9A84 82023D74+9AC3"
+    },
+    {
+      "title": "Quick Level Gain",
+      "code": "820285B0+FFFF 8202863C+FFFF"
+    },
+    {
+      "title": "Ride Bike Over Water",
+      "code": "72036E3C+0100 32036E43+0000"
+    },
+    {
+      "title": "Quick Egg Hatch",
+      "code": "32028642+00FE"
+    },
+    {
+      "title": "1st Pokemon Max Stats",
+      "code": "420242DA+03E7 00000007+0002"
+    },
+    {
+      "title": "2nd Pokemon Max Stats",
+      "code": "4202433E+03E7 00000007+0002"
+    },
+    {
+      "title": "3rd Pokemon Max Stats",
+      "code": "420243A2+03E7 00000007+0002"
+    },
+    {
+      "title": "4th Pokemon Max Stats",
+      "code": "42024406+03E7 00000007+0002"
+    },
+    {
+      "title": "5th Pokemon Max Stats",
+      "code": "4202446A+03E7 00000007+0002"
+    },
+    {
+      "title": "6th Pokemon Max Stats",
+      "code": "420244CE+03E7 00000007+0002"
+    },
+    {
+      "title": "Infinite PP",
+      "code": "42023C08+6363 00000002+0002"
+    },
+    {
+      "title": "Infinite Safari Time",
+      "code": "82039996+0258"
+    },
+    {
+      "title": "Free Daycare",
+      "code": "820370C2+0000"
+    }
+  ]
+}

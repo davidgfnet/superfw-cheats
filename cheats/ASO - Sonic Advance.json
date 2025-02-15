@@ -1,0 +1,62 @@
+{
+  "filename": "Sonic Advance.gba",
+  "game-codes": [
+    "ASOP-00",
+    "ASOE-00",
+    "ASOJ-00"
+  ],
+  "codes": [
+    {
+      "title": "Get Best Time For The End Of A Zone",
+      "code": "83005034+0001"
+    },
+    {
+      "title": "Infinite rings",
+      "code": "83004FEC+03E7"
+    },
+    {
+      "title": "Infinite Lives",
+      "code": "33005024+000A"
+    },
+    {
+      "title": "Quick Score Gain",
+      "code": "83005030+FFFF"
+    },
+    {
+      "title": "Max score",
+      "code": "83005030+967F 83005032+0098"
+    },
+    {
+      "title": "Max rings (Special stage)",
+      "code": "33005078+00FF"
+    },
+    {
+      "title": "Have all Chaos Emeralds",
+      "code": "3300517C+007F"
+    },
+    {
+      "title": "Normal Shield Effects",
+      "code": "33005A46+0001"
+    },
+    {
+      "title": "Lightning Shield Effects",
+      "code": "33005A46+0008"
+    },
+    {
+      "title": "Play as Sonic",
+      "code": "33005084+0000"
+    },
+    {
+      "title": "Play as Tails",
+      "code": "33005084+0001"
+    },
+    {
+      "title": "Play as Knuckles",
+      "code": "33005084+0002"
+    },
+    {
+      "title": "Play as Amy",
+      "code": "33005084+0003"
+    }
+  ]
+}

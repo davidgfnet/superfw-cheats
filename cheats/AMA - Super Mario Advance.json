@@ -1,0 +1,33 @@
+{
+  "filename": "Super Mario Advance (USA, Europe).gba",
+  "game-codes": [
+    "AMAJ-00",
+    "AMAE-00"
+  ],
+  "codes": [
+    {
+      "title": "Infinite Health",
+      "code": "33001C76+003F"
+    },
+    {
+      "title": "Invinc.ON Select+L",
+      "code": "74000130+01FB 82003500+0001 72003500+0001 83001C88+0410"
+    },
+    {
+      "title": "Invinc.OFF Select+R",
+      "code": "74000130+02FB 82003500+0000 72003500+0000 83001C88+0400"
+    },
+    {
+      "title": "Infinite Bonus Room Time",
+      "code": "33001CCF+0060"
+    },
+    {
+      "title": "Moon Jump",
+      "code": "D0000020+0001 83001C5A+FFC8"
+    },
+    {
+      "title": "Access All Worlds",
+      "code": "33001BD3+0013"
+    }
+  ]
+}

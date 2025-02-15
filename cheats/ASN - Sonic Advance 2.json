@@ -1,0 +1,78 @@
+{
+  "filename": "Sonic Advance 2.gba",
+  "game-codes": [
+    "ASNP-00",
+    "ASNE-00",
+    "ASNJ-00"
+  ],
+  "codes": [
+    {
+      "title": "Max Rings",
+      "code": "830053F0+03E7"
+    },
+    {
+      "title": "All SP Rings",
+      "code": "330054F4+0007"
+    },
+    {
+      "title": "Transparent",
+      "code": "33005A0C+0002"
+    },
+    {
+      "title": "Infinite Lives",
+      "code": "33005448+000A"
+    },
+    {
+      "title": "Multi Jump",
+      "code": "74000130+03FE 830059F2+FDD0"
+    },
+    {
+      "title": "Stop timer",
+      "code": "83005490+0000"
+    },
+    {
+      "title": "Unlock all Characters",
+      "code": "A200266C+1C18 8200266A+FFFF"
+    },
+    {
+      "title": "Unlock Tiny Chao Garden",
+      "code": "A200266C+1C18 3200266C+0001"
+    },
+    {
+      "title": "Open all Zones",
+      "code": "3200265F+001F 82002660+1F1F 82002662+1F1F"
+    },
+    {
+      "title": "Unlock Extra Zone (Sonic Only)",
+      "code": "32002672+0001"
+    },
+    {
+      "title": "Unlock Sound Test",
+      "code": "32002669+0001"
+    },
+    {
+      "title": "All Gems",
+      "code": "82002664+7F7F 82002666+7F7F 32002668+007F"
+    },
+    {
+      "title": "Auto-Right movement",
+      "code": "330059F5+0007"
+    },
+    {
+      "title": "Backgrounds are a little higher up",
+      "code": "33005930+0007"
+    },
+    {
+      "title": "Screen won't scroll",
+      "code": "330059A0+0007"
+    },
+    {
+      "title": "Can start before it says 'Go'",
+      "code": "33005A02+0004"
+    },
+    {
+      "title": "Infinite Air-Attack",
+      "code": "33005A03+0004"
+    }
+  ]
+}
