@@ -1,0 +1,25 @@
+{
+  "filename": "Kirby - Nightmare in Dream Land (USA, Europe).gba",
+  "game-codes": [
+    "A7KE-00",
+    "A7KP-00"
+  ],
+  "codes": [
+    {
+      "title": "Infinite health",
+      "code": "32005588+0030"
+    },
+    {
+      "title": "Infinite lives",
+      "code": "32007D48+0009"
+    },
+    {
+      "title": "Invincible",
+      "code": "33002182+000A"
+    },
+    {
+      "title": "Unlock all Sub-Games",
+      "code": "3200E610+0012"
+    }
+  ]
+}

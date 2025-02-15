@@ -1,0 +1,117 @@
+{
+  "filename": "Wario Land 4 (USA, Europe).gba",
+  "game-codes": [
+    "AWAE-00",
+    "AWAJ-00"
+  ],
+  "codes": [
+    {
+      "title": "Unlimited time",
+      "code": "83000BF0+0509"
+    },
+    {
+      "title": "Unlimited hearts",
+      "code": "33001910+0008"
+    },
+    {
+      "title": "Max heart gauge",
+      "code": "33001914+0008"
+    },
+    {
+      "title": "Max coins",
+      "code": "83000BF8+0909 83000BFA+0909"
+    },
+    {
+      "title": "Press R+L+Right for max medals",
+      "code": "D0000020+0310 83000008+03E7"
+    },
+    {
+      "title": "Press Select+L+R to reduce Boss HP to 1",
+      "code": "D0000020+0304 33000A41+0001"
+    },
+    {
+      "title": "Press Select+L+R to reduce Boss HP to 2",
+      "code": "D0000020+0304 33000A41+0002"
+    },
+    {
+      "title": "Have Upper-Right Gem Piece",
+      "code": "33000C07+0001"
+    },
+    {
+      "title": "Have Lower-Right Gem Piece",
+      "code": "33000C08+0001"
+    },
+    {
+      "title": "Have Upper-Left Gem Piece",
+      "code": "33000C09+0001"
+    },
+    {
+      "title": "Have Lower-Left Gem Piece",
+      "code": "33000C0A+0001"
+    },
+    {
+      "title": "Have Compact Disc",
+      "code": "33000C0B+0001"
+    },
+    {
+      "title": "Press R+L+Down To Have Key",
+      "code": "D0000020+0380 33000C0C+0001 D0000020+0380 33000B80+0001 D0000020+0380 33000B82+004B"
+    },
+    {
+      "title": "Press R+L+Up To Open Level Exit",
+      "code": "D0000020+0340 33000C0D+0001"
+    },
+    {
+      "title": "Press Select+R+Up for Normal Wario",
+      "code": "D0000020+0144 33001898+0000"
+    },
+    {
+      "title": "Press Select+R+Down for Swimming Wario",
+      "code": "D0000020+0184 33001898+0001"
+    },
+    {
+      "title": "Press Select+R+Right for Burning Wario",
+      "code": "D0000020+0114 33001898+0002"
+    },
+    {
+      "title": "Press Select+R+Left for Fat Wario",
+      "code": "D0000020+0124 33001898+0003"
+    },
+    {
+      "title": "Press Select+L+Up for Frozen Wario",
+      "code": "D0000020+0244 33001898+0004"
+    },
+    {
+      "title": "Press Select+L+Down for Zombie Wario",
+      "code": "D0000020+0284 33001898+0005"
+    },
+    {
+      "title": "Press Select+L+Right for Snowball Wario",
+      "code": "D0000020+0214 33001898+0006"
+    },
+    {
+      "title": "Press Select+L+Left for Spinning Wario",
+      "code": "D0000020+0224 33001898+0007"
+    },
+    {
+      "title": "Press Select+Up for Floating Wario",
+      "code": "D0000020+0044 33001898+0008"
+    },
+    {
+      "title": "Press Select+Down for Bat Wario",
+      "code": "D0000020+0084 33001898+0009"
+    },
+    {
+      "title": "Press Select+Right for Flat Wario",
+      "code": "D0000020+0014 33001898+000A"
+    },
+    {
+      "title": "Access Debug Room And Then Enter The Level",
+      "code": "33000003+0002"
+    },
+    {
+      "title": "Palette Swap for Debug Room",
+      "code": "35000000+00F4 35000001+00CD"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "filename": "Kirby and the Amazing Mirror (USA, Europe).gba",
+  "game-codes": [
+    "B8KE-00",
+    "B8KJ-00"
+  ],
+  "codes": [
+    {
+      "title": "Infinite health",
+      "code": "32020FE0+0006"
+    },
+    {
+      "title": "Infinite lives",
+      "code": "32020FE2+0003"
+    },
+    {
+      "title": "Infinite whistle",
+      "code": "32020FBC+0003"
+    },
+    {
+      "title": "All Levels/Doors accessed",
+      "code": "42028CA0+FFFF 0000010D+0002"
+    },
+    {
+      "title": "Open all connections",
+      "code": "42028C10+0001 00000013+0004"
+    },
+    {
+      "title": "Have all mirror pieces",
+      "code": "32038970+00FF"
+    },
+    {
+      "title": "Have All Spray Paint In Collection",
+      "code": "82038974+3FFF"
+    },
+    {
+      "title": "Have Sound Player And All Music/Sounds In Collection",
+      "code": "82038978+07FF"
+    },
+    {
+      "title": "Have all Maps in Collection",
+      "code": "8203897C+03FF"
+    },
+    {
+      "title": "Have all Vitality upgrades in Collection",
+      "code": "32038980+0004"
+    },
+    {
+      "title": "Have all Chests/Switches opened",
+      "code": "42038960+FFFF 00000005+0002 3203896A+000F"
+    }
+  ]
+}
