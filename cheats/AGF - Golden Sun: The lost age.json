@@ -1,0 +1,85 @@
+{
+  "filename": "Golden Sun - The Lost Age.gba",
+  "game-codes": [
+    "AGFD-00",
+    "AGFE-00",
+    "AGFF-00",
+    "AGFI-00",
+    "AGFJ-00",
+    "AGFS-00"
+  ],
+  "codes": [
+    {
+      "title": "Unlimited money",
+      "code": "82000250+E0FF 82000252+05F5"
+    },
+    {
+      "title": "Access all Summons",
+      "code": "8200024C+FFFF 8200024E+FFFF"
+    },
+    {
+      "title": "Quick level gain",
+      "code": "820305A0+C350"
+    },
+    {
+      "title": "No random battles (scripted encounters will still happen)",
+      "code": "82000498+0000"
+    },
+    {
+      "title": "Hold L to Multi-Hit",
+      "code": "D0000020+0200 82030870+0000"
+    },
+    {
+      "title": "Infinite HP",
+      "code": "42000558+07CF 00000008+014C"
+    },
+    {
+      "title": "Infinite PP",
+      "code": "4200055A+07CF 00000008+014C"
+    },
+    {
+      "title": "Infinite Summons",
+      "code": "32000257+00FF"
+    },
+    {
+      "title": "9,999,999 EXP From Single Battle",
+      "code": "820305A0+967F 820305A2+0098"
+    },
+    {
+      "title": "Artifacts shop available",
+      "code": "4200208C+6363 0000003D+0002"
+    },
+    {
+      "title": "Felix have all Djinni In-Battle",
+      "code": "72000060+0018 42000B58+FFFF 00000004+0004 72000060+0050 42000B58+0000 00000004+0004"
+    },
+    {
+      "title": "Garret have all Djinni In-Battle",
+      "code": "72000060+0018 42000774+FFFF 00000004+0004 72000060+0050 42000774+0000 00000004+0004"
+    },
+    {
+      "title": "Isaac have all Djinni In-Battle",
+      "code": "72000060+0018 42000628+FFFF 00000004+0004 72000060+0050 42000628+0000 00000004+0004"
+    },
+    {
+      "title": "Ivan have all Djinni In-Battle",
+      "code": "72000060+0018 420008C0+FFFF 00000004+0004 72000060+0050 420008C0+0000 00000004+0004"
+    },
+    {
+      "title": "Jenna have all Djinni In-Battle",
+      "code": "72000060+0018 42000CA4+FFFF 00000004+0004 72000060+0050 42000CA4+0000 00000004+0004"
+    },
+    {
+      "title": "Mia have all Djinni In-Battle",
+      "code": "72000060+0018 42000A0C+FFFF 00000004+0004 72000060+0050 42000A0C+0000 00000004+0004"
+    },
+    {
+      "title": "Piers have all Djinni In-Battle",
+      "code": "72000060+0018 42000F3C+FFFF 00000004+0004 72000060+0050 42000F3C+0000 00000004+0004"
+    },
+    {
+      "title": "Sheba have all Djinni In-Battle",
+      "code": "72000060+0018 42000DF0+FFFF 00000004+0004 72000060+0050 42000DF0+0000 00000004+0004"
+    }
+  ]
+}

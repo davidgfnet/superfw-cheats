@@ -1,0 +1,30 @@
+{
+  "filename": "Harry Potter and the Prisoner of Azkaban.gba",
+  "game-codes": [
+    "BHTE-00",
+    "BHTP-00",
+    "BHTJ-00"
+  ],
+  "codes": [
+    {
+      "title": "Quick Level-Up",
+      "code": "830026F0+03E7"
+    },
+    {
+      "title": "Infinite Sickles (Cash)",
+      "code": "83003180+270F"
+    },
+    {
+      "title": "Max Cards",
+      "code": "430031D8+0909 00000019+0002"
+    },
+    {
+      "title": "Almost all Cards",
+      "code": "4300320A+FFFF 00000003+0002 83003210+0BFF"
+    },
+    {
+      "title": "Full Folio Bruti",
+      "code": "43003190+0303 0000001B+0002"
+    }
+  ]
+}

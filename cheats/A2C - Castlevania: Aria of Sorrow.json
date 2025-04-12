@@ -1,0 +1,110 @@
+{
+  "filename": "Castlevania - Aria of Sorrow (USA, Europe).gba",
+  "game-codes": [
+    "A2CE-00",
+    "A2CP-00",
+    "A2CJ-00"
+  ],
+  "codes": [
+    {
+      "title": "Transparent",
+      "code": "8200055C+0000"
+    },
+    {
+      "title": "Infinite HP",
+      "code": "8201327A+270F"
+    },
+    {
+      "title": "Maximum HP",
+      "code": "8201327E+270F"
+    },
+    {
+      "title": "Infinite MP",
+      "code": "8201327C+270F"
+    },
+    {
+      "title": "Maximum MP",
+      "code": "82013280+270F"
+    },
+    {
+      "title": "Max STR",
+      "code": "82013282+270F"
+    },
+    {
+      "title": "Max CON",
+      "code": "82013284+270F"
+    },
+    {
+      "title": "Max INT",
+      "code": "82013286+270F"
+    },
+    {
+      "title": "Max LCK",
+      "code": "82013288+7F00"
+    },
+    {
+      "title": "Max Gold",
+      "code": "82013290+423F 82013292+000F"
+    },
+    {
+      "title": "Max Experience",
+      "code": "8201328C+E0FF 8201328E+05F5"
+    },
+    {
+      "title": "Reset Game Timer",
+      "code": "820000AC+0000 820000AE+0000"
+    },
+    {
+      "title": "Sprint X2",
+      "code": "D0000020+0010 8200052E+0002 D0000020+0020 8200052E+FFFD"
+    },
+    {
+      "title": "Infinite Double Jumps",
+      "code": "720004F4+1006 320004F4+0002"
+    },
+    {
+      "title": "Always Rush/Guard",
+      "code": "32013261+00F4"
+    },
+    {
+      "title": "Weak Final Boss",
+      "code": "7200140C+05DC 8200140C+0000 72001598+07D0 82001598+0000"
+    },
+    {
+      "title": "Have All Items",
+      "code": "42013294+0101 00000010+0002"
+    },
+    {
+      "title": "Have All Equipment",
+      "code": "420132B4+0101 00000034+0002"
+    },
+    {
+      "title": "Complete Soul Set",
+      "code": "4201331C+FFFF 00000032+0002"
+    },
+    {
+      "title": "All Abilities",
+      "code": "82013392+FFFF 32013394+00FF"
+    },
+    {
+      "title": "All Enemy Data",
+      "code": "420133A0+FFFF 00000017+0002"
+    },
+    {
+      "title": "Complete Map",
+      "code": "420000B6+FFFF 0000013F+0002"
+    },
+    {
+      "title": "Access Warp Gates",
+      "code": "74000130+03B7 32000064+0007 32000378+00FF"
+    },
+    {
+      "title": "Unlock Special",
+      "code": "32000060+000F 320000A1+0001"
+    },
+    {
+      "title": "Press R+B+Up To Open Mist Door",
+      "code": "74000130+02BD 8200037E+9871"
+    }
+  ]
+}

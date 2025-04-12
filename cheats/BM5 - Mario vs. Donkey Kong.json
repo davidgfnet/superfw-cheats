@@ -1,0 +1,42 @@
+{
+  "filename": "Mario vs. Donkey Kong.gba",
+  "game-codes": [
+    "BM5E-00",
+    "BM5J-00",
+    "BM5P-00"
+  ],
+  "codes": [
+    {
+      "title": "Infinite time",
+      "code": "83000B54+4500"
+    },
+    {
+      "title": "Have bonus packages",
+      "code": "83001A30+0202 33001A32+0002"
+    },
+    {
+      "title": "Have T O Y letters",
+      "code": "83001A34+0101 33001A33+0001"
+    },
+    {
+      "title": "Have mini Marios in the box",
+      "code": "33001BA0+0006"
+    },
+    {
+      "title": "Infinite Lives",
+      "code": "33000BBC+0009"
+    },
+    {
+      "title": "Infinite key time",
+      "code": "83001A80+0300"
+    },
+    {
+      "title": "Press Select to cripple DK",
+      "code": "74000130+03FB 430035D8+0001 00000006+00B0"
+    },
+    {
+      "title": "Infinite Health",
+      "code": "33003528+0006"
+    }
+  ]
+}

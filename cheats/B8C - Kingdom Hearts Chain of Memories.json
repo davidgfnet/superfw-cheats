@@ -1,0 +1,26 @@
+{
+  "filename": "Kingdom Hearts - Chain of Memories.gba",
+  "game-codes": [
+    "B8CE-00",
+    "B8CP-00",
+    "B8CJ-00"
+  ],
+  "codes": [
+    {
+      "title": "Rikku always in Dark Mode",
+      "code": "72033E6C+0000 82033E6C+8000 72033E6C+8000 520330CC+0002 04DDF608+0000 72033E6C+8000 530026C2+0002 841CCF45+0000 72033E6C+8000 530026C8+0003 4740C868+D17D 72033E6C+8000 530026CE+0002 EE580835+0000 72033E6C+8000 530026D8+0003 BE429E5F+1914 43002F72+08C5 00000002+0020"
+    },
+    {
+      "title": "Infinite Mobile Points",
+      "code": "82039D24+869F 82039D26+0001"
+    },
+    {
+      "title": "Only 1 exp for level up",
+      "code": "82039CB4+0001"
+    },
+    {
+      "title": "Max HP",
+      "code": "82039CA8+03E7"
+    }
+  ]
+}

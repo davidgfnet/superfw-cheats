@@ -1,0 +1,18 @@
+{
+  "filename": "Frogger's Adventures 2 - The Lost Wand.gba",
+  "game-codes": [
+    "AFBE-00",
+    "AFBP-00",
+    "AFBJ-00"
+  ],
+  "codes": [
+    {
+      "title": "Infinite Lives",
+      "code": "830036AC+6300"
+    },
+    {
+      "title": "Have 19 crystal droplets",
+      "code": "820036AC+0013"
+    }
+  ]
+}

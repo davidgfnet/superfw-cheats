@@ -1,0 +1,25 @@
+{
+  "filename": "Frogger's Adventures - Temple of the Frog.gba",
+  "game-codes": [
+    "AFRE-00",
+    "AFRP-00"
+  ],
+  "codes": [
+    {
+      "title": "Infinite continues",
+      "code": "33003502+0009"
+    },
+    {
+      "title": "Infinite Lives",
+      "code": "330035E0+000A"
+    },
+    {
+      "title": "Have all elements",
+      "code": "330035E4+0005"
+    },
+    {
+      "title": "Max coins",
+      "code": "330035E2+0032"
+    }
+  ]
+}

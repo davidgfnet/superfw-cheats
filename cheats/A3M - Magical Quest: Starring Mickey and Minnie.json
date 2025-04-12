@@ -1,0 +1,42 @@
+{
+  "filename": "Magical Quest Starring Mickey & Minnie.gba",
+  "game-codes": [
+    "A3MP-00",
+    "A3MJ-00",
+    "A3ME-00"
+  ],
+  "codes": [
+    {
+      "title": "Invincible",
+      "code": "720008DE+0000 820008DE+0004"
+    },
+    {
+      "title": "Infinite Health",
+      "code": "320008EA+0004"
+    },
+    {
+      "title": "Infinite Lives",
+      "code": "32000985+0009"
+    },
+    {
+      "title": "Infinite Magic",
+      "code": "320008F1+0020"
+    },
+    {
+      "title": "Infinite Water",
+      "code": "320008F3+0020"
+    },
+    {
+      "title": "999 Coins",
+      "code": "820008E4+0999"
+    },
+    {
+      "title": "Have All Costumes",
+      "code": "320008FB+0001 820008FC+0101"
+    },
+    {
+      "title": "Press A For Moon Jump",
+      "code": "D0000020+0001 82000A2A+FFFB"
+    }
+  ]
+}

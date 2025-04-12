@@ -1,0 +1,73 @@
+{
+  "filename": "Golden Sun.gba",
+  "game-codes": [
+    "AGSD-00",
+    "AGSE-00",
+    "AGSF-00",
+    "AGSI-00",
+    "AGSJ-00",
+    "AGSS-00"
+  ],
+  "codes": [
+    {
+      "title": "Infinite HP",
+      "code": "42000538+07CF 00000004+014C"
+    },
+    {
+      "title": "Infinite PP",
+      "code": "4200053A+07CF 00000004+014C"
+    },
+    {
+      "title": "Infinite money",
+      "code": "82000250+E0FF 82000252+05F5"
+    },
+    {
+      "title": "All artifacts available in shops",
+      "code": "42000380+6363 00000030+0002"
+    },
+    {
+      "title": "Max attack (Requires equipping/removing an item on each character to take effect)",
+      "code": "42000518+270F 00000004+014C"
+    },
+    {
+      "title": "Max Defense (Requires equipping/removing an item on each character to take effect)",
+      "code": "4200051A+270F 00000004+014C"
+    },
+    {
+      "title": "Max Agility (Requires equipping/removing an item on each character to take effect)",
+      "code": "4200051C+270F 00000004+014C"
+    },
+    {
+      "title": "Max Luck (Requires equipping/removing an item on each character to take effect)",
+      "code": "3200051E+0080 3200066A+0080 320007B6+0080 32000902+0080 32000A4E+0080 32000B9A+0080 32000CE6+0080"
+    },
+    {
+      "title": "2000 experience per battle",
+      "code": "82030580+07D0"
+    },
+    {
+      "title": "9,999,999 experience per battle",
+      "code": "82030580+967F 82030582+0098"
+    },
+    {
+      "title": "No random battles (scripted encounters still happen)",
+      "code": "3200047A+0000"
+    },
+    {
+      "title": "Infinite summons",
+      "code": "32000257+00FF"
+    },
+    {
+      "title": "Always have two turns in battle (Only works after gaining access to Djinn)",
+      "code": "32000644+0004 32000790+0004 320008DC+0004 32000A28+0004"
+    },
+    {
+      "title": "Take less DMG in battle",
+      "code": "3200062B+00FF 32000777+00FF 320008C3+00FF 32000A0F+00FF"
+    },
+    {
+      "title": "Enemies have less HP",
+      "code": "420308B0+0001 00000003+014C"
+    }
+  ]
+}

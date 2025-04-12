@@ -1,0 +1,22 @@
+{
+  "filename": "Metroid - Zero Mission.gba",
+  "game-codes": [
+    "BMXE-00",
+    "BMXJ-00",
+    "BMXP-00"
+  ],
+  "codes": [
+    {
+      "title": "Have Morph Ball",
+      "code": "2300153E+4040"
+    },
+    {
+      "title": "Infinite Missiles",
+      "code": "83001538+03E7"
+    },
+    {
+      "title": "Infinite Super Missiles",
+      "code": "3300153A+00C7"
+    }
+  ]
+}

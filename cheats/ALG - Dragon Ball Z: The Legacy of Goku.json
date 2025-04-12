@@ -1,0 +1,37 @@
+{
+  "filename": "Dragon Ball Z - The Legacy of Goku (USA, Europe).gba",
+  "game-codes": [
+    "ALGE-00",
+    "ALGP-00"
+  ],
+  "codes": [
+    {
+      "title": "Infinite HP",
+      "code": "82013270+FFFF"
+    },
+    {
+      "title": "Hella KI",
+      "code": "82013278+FFFF"
+    },
+    {
+      "title": "Infinite flight power",
+      "code": "830007AC+6300"
+    },
+    {
+      "title": "Quick level gain",
+      "code": "820132A8+FFFF"
+    },
+    {
+      "title": "Have Saiyan hair",
+      "code": "8200389C+1F64 83000A00+A9F4"
+    },
+    {
+      "title": "Have all powers",
+      "code": "8300004C+0729"
+    },
+    {
+      "title": "Walk through walls (Press L and the direction you want to go)",
+      "code": "74000130+01BF E30007C2+FFEF 74000130+017F E30007C2+0010 74000130+01DF E30007C0+FFEF 74000130+01EF E30007C0+0010"
+    }
+  ]
+}
