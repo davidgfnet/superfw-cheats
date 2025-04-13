@@ -1,0 +1,55 @@
+{
+  "filename": "Super Mario Advance 2: Super Mario World.gba",
+  "game-codes": [
+    "AA2E-00",
+    "AA2P-00",
+    "AA2J-00",
+    "AA2C-00"
+  ],
+  "codes": [
+    {
+      "title": "Infinite lives",
+      "code": "3300432A+0008"
+    },
+    {
+      "title": "Infinite time",
+      "code": "330054E8+0009"
+    },
+    {
+      "title": "PowerUp: big Mario",
+      "code": "33004304+0001"
+    },
+    {
+      "title": "PowerUp: caped Mario",
+      "code": "33004304+0002"
+    },
+    {
+      "title": "PowerUp: fire power",
+      "code": "33004304+0003"
+    },
+    {
+      "title": "No PowerUp - Small Mario",
+      "code": "33004304+0000"
+    },
+    {
+      "title": "Moon jump",
+      "code": "D0000020+0001 33003FAD+00C0"
+    },
+    {
+      "title": "Get 99 Stars",
+      "code": "33004301+0063"
+    },
+    {
+      "title": "Get 5 Dragon coins",
+      "code": "330054CF+0005"
+    },
+    {
+      "title": "Mario Bros: Infinite Lives",
+      "code": "3300466D+0009"
+    },
+    {
+      "title": "Mario Bros: Invincible",
+      "code": "73006048+0800 83006048+0100 73006052+0080 83006052+0000"
+    }
+  ]
+}

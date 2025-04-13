@@ -1,0 +1,43 @@
+{
+  "filename": "Pokemon Pinball - Ruby & Sapphire.gba",
+  "game-codes": [
+    "BPPE-00",
+    "BPPP-00",
+    "BPPJ-00",
+    "BPPJ-01"
+  ],
+  "codes": [
+    {
+      "title": "Infinite balls",
+      "code": "82000030+0003"
+    },
+    {
+      "title": "Max score",
+      "code": "82000044+423F 82000046+000F"
+    },
+    {
+      "title": "Max coins",
+      "code": "82000192+0163"
+    },
+    {
+      "title": "Infinite time",
+      "code": "82000296+19B2"
+    },
+    {
+      "title": "Ball-Saver always on",
+      "code": "32000724+00FC"
+    },
+    {
+      "title": "Always have Pikachu & Pichu",
+      "code": "820001E2+0102"
+    },
+    {
+      "title": "Always have Pika-Kickback charged",
+      "code": "820001C6+00A8"
+    },
+    {
+      "title": "Have complete Pokedex",
+      "code": "4200B134+0404 00000066+0002"
+    }
+  ]
+}

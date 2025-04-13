@@ -1,0 +1,18 @@
+{
+  "filename": "F-Zero - Maximum Velocity.gba",
+  "game-codes": [
+    "AFZC-00",
+    "AFZE-00",
+    "AFZJ-00"
+  ],
+  "codes": [
+    {
+      "title": "Have all vehicles",
+      "code": "32008957+00FF"
+    },
+    {
+      "title": "Infinite lives",
+      "code": "33002B6A+0004"
+    }
+  ]
+}

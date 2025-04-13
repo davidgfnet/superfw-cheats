@@ -1,0 +1,69 @@
+{
+  "filename": "Spyro - Season of Ice.gba",
+  "game-codes": [
+    "ASYP-00",
+    "ASYE-00"
+  ],
+  "codes": [
+    {
+      "title": "Press and hold Select for sky jump",
+      "code": "D0000020+0004 33001C44+0003"
+    },
+    {
+      "title": "Infinite lives",
+      "code": "33001494+0063"
+    },
+    {
+      "title": "Infinite health Spyro",
+      "code": "33001C90+0004"
+    },
+    {
+      "title": "Infinite health bug",
+      "code": "330053DE+0006"
+    },
+    {
+      "title": "Invincible bug",
+      "code": "330053DC+0064"
+    },
+    {
+      "title": "Have all keys",
+      "code": "330074D0+0010"
+    },
+    {
+      "title": "Max fairies",
+      "code": "33001498+0009"
+    },
+    {
+      "title": "Max birds",
+      "code": "32030BE0+0009"
+    },
+    {
+      "title": "Ant farm finished",
+      "code": "33001434+0003 33001436+00C8"
+    },
+    {
+      "title": "Stone age speedway finished",
+      "code": "33001430+0005 33001432+002C 33001433+0001"
+    },
+    {
+      "title": "Mermaid coast finished",
+      "code": "3300142C+000D 3300142E+002C 3300142F+0001"
+    },
+    {
+      "title": "Lava prairie finished",
+      "code": "33001428+000D 3300142A+002C 3300142B+0001"
+    },
+    {
+      "title": "Market mesa finished",
+      "code": "33001424+000D 33001426+002C 33001427+0001"
+    },
+    {
+      "title": "Autumn fairy home finished",
+      "code": "33001420+000B 33001422+002C 33001423+0001"
+    },
+    {
+      "title": "Have all Gems collected",
+      "code": "83001422+1B52 83001490+1B52"
+    }
+  ]
+}

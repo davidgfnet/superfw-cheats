@@ -1,0 +1,23 @@
+{
+  "filename": "Finding Nemo.gba",
+  "game-codes": [
+    "AZID-00",
+    "AZIE-00",
+    "AZIX-00",
+    "AZIY-00"
+  ],
+  "codes": [
+    {
+      "title": "Unlock all levels",
+      "code": "32003414+000C"
+    },
+    {
+      "title": "Max bubble rings",
+      "code": "82002F74+03E7"
+    },
+    {
+      "title": "Max star rings",
+      "code": "82002F78+03E7"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "filename": "Final Fantasy Tactics Advance.gba",
+  "game-codes": [
+    "AFXE-00",
+    "AFXP-00",
+    "AFXJ-00"
+  ],
+  "codes": [
+    {
+      "title": "Max money",
+      "code": "82001F64+E0FF 82001F66+05F5"
+    },
+    {
+      "title": "Get lots of AP",
+      "code": "8201F514+1188"
+    },
+    {
+      "title": "No laws in battle",
+      "code": "42003C34+0000 00000003+0002"
+    },
+
+    {
+      "title": "Max HP (all)",
+      "code": "4200009A+03E7 00000014+0108"
+    },
+    {
+      "title": "Infinite HP (all)",
+      "code": "42000098+03E7 00000014+0108"
+    },
+    {
+      "title": "Max MP (all) ",
+      "code": "4200009E+0063 00000014+0108"
+    },
+    {
+      "title": "Infinite MP (all) ",
+      "code": "4200009C+0063 00000014+0108"
+    },
+    {
+      "title": "Infinite JP (all)",
+      "code": "42000156+0063 00000014+0108"
+    },
+    {
+      "title": "Max attack (all)",
+      "code": "420000A0+03E7 00000014+0108"
+    },
+    {
+      "title": "Max defence (all)",
+      "code": "420000A2+03E7 00000014+0108"
+    },
+    {
+      "title": "Max power (all)",
+      "code": "420000A4+03E7 00000014+0108"
+    },
+    {
+      "title": "Max resistence (all)",
+      "code": "420000A6+03E7 00000014+0108"
+    },
+    {
+      "title": "Max speed (all)",
+      "code": "42000152+03E7 00000014+0108"
+    },
+    {
+      "title": "No cards (all)",
+      "code": "42000182+03E7 00000014+0108"
+    },
+    {
+      "title": "Level-Up all in battle",
+      "code": "4200008A+0063 00000014+0108"
+    },
+    {
+      "title": "Level-Up Player 1",
+      "code": "3200008A+0063"
+    },
+    {
+      "title": "Level-Up Player 2",
+      "code": "32000192+0063"
+    },
+    {
+      "title": "Level-Up Player 3",
+      "code": "320003A2+0063"
+    },
+    {
+      "title": "Level-Up Player 4",
+      "code": "3200029A+0063"
+    },
+    {
+      "title": "Level-Up Player 5",
+      "code": "320004AA+0063"
+    },
+    {
+      "title": "Level-Up Player 6",
+      "code": "320005B2+0063"
+    },
+    {
+      "title": "Level-Up Player 7",
+      "code": "320006BA+0063"
+    },
+    {
+      "title": "Level-Up Player 8",
+      "code": "320007C2+0063"
+    }
+  ]
+}

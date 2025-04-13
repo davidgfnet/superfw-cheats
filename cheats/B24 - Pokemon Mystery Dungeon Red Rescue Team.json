@@ -1,0 +1,50 @@
+{
+  "filename": "Pokemon Mystery Dungeon - Red Rescue Team.gba",
+  "game-codes": [
+    "B24E-00",
+    "B24P-00",
+    "B24J-00"
+  ],
+  "codes": [
+    {
+      "title": "Infinite HP",
+      "code": "82004193+0063"
+    },
+    {
+      "title": "Infinite Belly",
+      "code": "820042CC+0063"
+    },
+    {
+      "title": "Max Belly size",
+      "code": "820042D0+00FF"
+    },
+    {
+      "title": "Max experience",
+      "code": "420041A8+967F 00000002+0208 420041AA+0098 00000002+0208"
+    },
+    {
+      "title": "Max Pokedollar",
+      "code": "82038C08+423F 82038C0A+000F"
+    },
+    {
+      "title": "1st Pokemon level 100",
+      "code": "32004199+0064"
+    },
+    {
+      "title": "Set encounter rate to max",
+      "code": "32004156+0023"
+    },
+    {
+      "title": "Items in Pokeshop cost 1 Pokedollar",
+      "code": "820039B8+0001"
+    },
+    {
+      "title": "Friend areas cost 1 Pokedollar",
+      "code": "820039C4+0001"
+    },
+    {
+      "title": "Max stats for all Pokemon (in battle)",
+      "code": "420041A4+FFFF 00000004+0208 420041A6+FFFF 00000004+0208"
+    }
+  ]
+}
