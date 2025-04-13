@@ -1,0 +1,83 @@
+{
+  "filename": "Castlevania - Circle of the Moon.gba",
+  "game-codes": [
+    "AAME-00",
+    "AAMP-00",
+    "AAMJ-00"
+  ],
+  "codes": [
+    {
+      "title": "Instant Level-Up",
+      "code": "3202566A+0001"
+    },
+    {
+      "title": "Max Strength",
+      "code": "82025646+270F 82025648+270F"
+    },
+    {
+      "title": "Max Defense",
+      "code": "8202564E+270F 82025650+270F"
+    },
+    {
+      "title": "Max Intelligence",
+      "code": "82025656+270F 82025658+270F"
+    },
+    {
+      "title": "Max Luck",
+      "code": "8202565E+270F 82025660+270F"
+    },
+    {
+      "title": "Infinite HP",
+      "code": "8202562E+270F"
+    },
+    {
+      "title": "Infinite MP",
+      "code": "82025636+270F"
+    },
+    {
+      "title": "Infinite Hearts",
+      "code": "8202563C+270F"
+    },
+    {
+      "title": "Max Level [999]",
+      "code": "82025664+03E7"
+    },
+
+    {
+      "title": "Hold R-button and direction to walk through walls",
+      "code": "74000130+02DF E2000036+FFFE 74000130+02EF E2000036+0001"
+    },
+    {
+      "title": "Press L+R if you get stuck in the ceiling",
+      "code": "74000130+00FF 8200003A+00AA"
+    },
+    {
+      "title": "Press L for antigravity",
+      "code": "D0000020+0200 320048E0+0007"
+    },
+    {
+      "title": "Max Stats",
+      "code": "42025646+270F 00000004+0008 42025648+270F 00000004+0008"
+    },
+    {
+      "title": "Max Experience",
+      "code": "82025668+E0FF 8202566A+5F5E"
+    },
+    {
+      "title": "Instant Level-Up to max level",
+      "code": "3202566A+0020"
+    },
+    {
+      "title": "Have all items",
+      "code": "420256EC+6363 0000001C+0002"
+    },
+    {
+      "title": "Have all magic items",
+      "code": "4202572E+0101 00000005+0002"
+    },
+    {
+      "title": "Always run",
+      "code": "3200009C+0000"
+    }
+  ]
+}

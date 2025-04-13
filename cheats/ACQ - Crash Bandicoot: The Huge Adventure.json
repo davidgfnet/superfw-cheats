@@ -1,0 +1,37 @@
+{
+  "filename": "Crash Bandicoot - The Huge Adventure.gba",
+  "game-codes": [
+    "ACQE-00",
+    "ACQP-00"
+  ],
+  "codes": [
+    {
+      "title": "Infinite lives",
+      "code": "32000098+0063"
+    },
+    {
+      "title": "Infinite mask",
+      "code": "8200009C+0003"
+    },
+    {
+      "title": "Infinite health (Flying stages)",
+      "code": "83003F44+0064"
+    },
+    {
+      "title": "Have special moves",
+      "code": "32000026+00F0"
+    },
+    {
+      "title": "Start with 100 boxes",
+      "code": "72000094+0000 82000094+0064"
+    },
+    {
+      "title": "Timer off",
+      "code": "820000BC+0000"
+    },
+    {
+      "title": "Press A for moon jump",
+      "code": "D0000020+0001 32010A78+00CC"
+    }
+  ]
+}

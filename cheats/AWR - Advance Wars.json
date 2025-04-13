@@ -1,0 +1,244 @@
+{
+  "filename": "Advance Wars.gba",
+  "game-codes": [
+    "AWRC-00",
+    "AWRE-00",
+    "AWRE-01",
+    "AWRP-00"
+  ],
+  "codes": [
+    {
+      "title": "Always day 1",
+      "code": "33004420+0001"
+    },
+    {
+      "title": "Infinite coins",
+      "code": "8201227C+FFFF"
+    },
+    {
+      "title": "No fog of war",
+      "code": "3300431D+0000"
+    },
+    {
+      "title": "Always fog of war",
+      "code": "3300431D+0001"
+    },
+    {
+      "title": "Always get S-Rank",
+      "code": "3201ABCA+0005"
+    },
+    {
+      "title": "Press Select to win capture battles",
+      "code": "D0000020+0004 3201ABAC+0063"
+    },
+    {
+      "title": "Move all around the map",
+      "code": "830036D8+0101 830036DA+0101"
+    },
+
+    {
+      "title": "P1 infinite G",
+      "code": "8201AB9C+423F 8201AB9E+000F"
+    },
+    {
+      "title": "P1 no G",
+      "code": "8201AB9C+0000 8201AB9E+0000"
+    },
+    {
+      "title": "P2 infinite G",
+      "code": "8201AC04+423F 8201AC06+000F"
+    },
+    {
+      "title": "P2 no G",
+      "code": "8201AC04+0000 8201AC06+0000"
+    },
+    {
+      "title": "P3 infinite G",
+      "code": "8201AC6C+423F 8201AC6E+000F"
+    },
+    {
+      "title": "P3 no G",
+      "code": "8201AC6C+0000 8201AC6E+0000"
+    },
+    {
+      "title": "P4 infinite G",
+      "code": "8201ACD4+423F 8201ACD6+000F"
+    },
+    {
+      "title": "P4 no G",
+      "code": "8201ACD4+0000 8201ACD6+0000"
+    },
+
+    {
+      "title": "P1 Infinite CO Power",
+      "code": "8201ABBC+FFFF"
+    },
+    {
+      "title": "P1 No CO Power",
+      "code": "8201ABBC+0000"
+    },
+    {
+      "title": "P2 Infinite CO Power",
+      "code": "8201AC24+FFFF"
+    },
+    {
+      "title": "P2 No CO Power",
+      "code": "8201AC24+0000"
+    },
+    {
+      "title": "P3 Infinite CO Power",
+      "code": "8201AC8C+FFFF"
+    },
+    {
+      "title": "P3 No CO Power",
+      "code": "8201AC8C+0000"
+    },
+    {
+      "title": "P4 Infinite CO Power",
+      "code": "8201ACF4+FFFF"
+    },
+    {
+      "title": "P4 No CO Power",
+      "code": "8201ACF4+0000"
+    },
+    {
+      "title": "P2 Has No Buildings Captured",
+      "code": "3201AC14+0000"
+    },
+    {
+      "title": "Always Nell",
+      "code": "8201ABB8+0000"
+    },
+
+    {
+      "title": "Always Andy",
+      "code": "8201ABB8+0100"
+    },
+    {
+      "title": "Always Max",
+      "code": "8201ABB8+0200"
+    },
+    {
+      "title": "Always Olaf",
+      "code": "8201ABB8+0300"
+    },
+    {
+      "title": "Always Sami",
+      "code": "8201ABB8+0400"
+    },
+    {
+      "title": "Always Grit",
+      "code": "8201ABB8+0500"
+    },
+    {
+      "title": "Always Kanbei",
+      "code": "8201ABB8+0600"
+    },
+    {
+      "title": "Always Sonja",
+      "code": "8201ABB8+0700"
+    },
+    {
+      "title": "Always Eagle",
+      "code": "8201ABB8+0800"
+    },
+    {
+      "title": "Always Drake",
+      "code": "8201ABB8+0900"
+    },
+    {
+      "title": "Always Sturm",
+      "code": "8201ABB8+0A00"
+    },
+
+    {
+      "title": "Nell Always CO",
+      "code": "3201ABB9+0000"
+    },
+    {
+      "title": "Andy Always CO",
+      "code": "3201ABB9+0001"
+    },
+    {
+      "title": "Max Always CO",
+      "code": "3201ABB9+0002"
+    },
+    {
+      "title": "Olaf Always CO",
+      "code": "3201ABB9+0003"
+    },
+    {
+      "title": "Sami Always CO",
+      "code": "3201ABB9+0004"
+    },
+    {
+      "title": "Grit Always CO",
+      "code": "3201ABB9+0005"
+    },
+    {
+      "title": "Kanbei Always CO",
+      "code": "3201ABB9+0006"
+    },
+    {
+      "title": "Sonja Always CO",
+      "code": "3201ABB9+0007"
+    },
+    {
+      "title": "Eagle Always CO",
+      "code": "3201ABB9+0008"
+    },
+    {
+      "title": "Drake Always CO",
+      "code": "3201ABB9+0009"
+    },
+    {
+      "title": "Sturm Always CO",
+      "code": "3201ABB9+000A"
+    },
+
+    {
+      "title": "Play Against Nell",
+      "code": "3201AC21+0000"
+    },
+    {
+      "title": "Play Against Andy",
+      "code": "3201AC21+0001"
+    },
+    {
+      "title": "Play Against Max",
+      "code": "3201AC21+0002"
+    },
+    {
+      "title": "Play Against Olaf",
+      "code": "3201AC21+0003"
+    },
+    {
+      "title": "Play Against Sami",
+      "code": "3201AC21+0004"
+    },
+    {
+      "title": "Play Against Grit",
+      "code": "3201AC21+0005"
+    },
+    {
+      "title": "Play Against Kanbei",
+      "code": "3201AC21+0006"
+    },
+    {
+      "title": "Play Against Sonja",
+      "code": "3201AC21+0007"
+    },
+    {
+      "title": "Play Against Eagle",
+      "code": "3201AC21+0008"
+    },
+    {
+      "title": "Play Against Drake",
+      "code": "3201AC21+0009"
+    },
+    {
+      "title": "Play Against Sturm",
+      "code": "3201AC21+000A"
+    }
+  ]
+}

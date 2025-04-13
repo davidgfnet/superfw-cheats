@@ -1,0 +1,37 @@
+{
+  "filename": "Spyro - Attack of the Rhynocs.gba",
+  "game-codes": [
+    "AOWE-00",
+    "AOWP-00"
+  ],
+  "codes": [
+    {
+      "title": "Infinite jewels",
+      "code": "8300301C+0384"
+    },
+    {
+      "title": "Have all jewels in game total",
+      "code": "8300301E+2328"
+    },
+    {
+      "title": "Have all hearts found",
+      "code": "33003029+000C"
+    },
+    {
+      "title": "Unlock everything",
+      "code": "43002FE6+FFFF 00000007+0002"
+    },
+    {
+      "title": "Open all levels",
+      "code": "83003000+FFFF"
+    },
+    {
+      "title": "Force time to 00:00:00",
+      "code": "43002922+0000 00000004+0002"
+    },
+    {
+      "title": "Press Select to escape any level",
+      "code": "74000130+03FB 32039E94+0005"
+    }
+  ]
+}

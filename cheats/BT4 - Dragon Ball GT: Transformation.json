@@ -1,0 +1,38 @@
+{
+  "filename": "Dragon Ball GT - Transformation.gba",
+  "game-codes": [ "BT4E-00" ],
+  "codes": [
+    {
+      "title": "Max score",
+      "code": "83001D0C+FFFF 83001D0E+FFFF"
+    },
+    {
+      "title": "Max Zennie",
+      "code": "83001CDC+270F"
+    },
+    {
+      "title": "All secrets unlocked",
+      "code": "43001CF8+FFFF 00000004+0002"
+    },
+    {
+      "title": "Infinite health (all)",
+      "code": "43001AF6+0079 00000009+002C"
+    },
+    {
+      "title": "Max health (all)",
+      "code": "43001AF8+0079 00000009+002C"
+    },
+    {
+      "title": "Infinite Ki (all)",
+      "code": "43001AFC+0064 00000009+002C"
+    },
+    {
+      "title": "Max Power (all)",
+      "code": "43001B02+000A 00000009+002C"
+    },
+    {
+      "title": "Max Strength (all)",
+      "code": "43001B06+000A 00000009+002C"
+    }
+  ]
+}

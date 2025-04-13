@@ -1,0 +1,50 @@
+{
+  "filename": "Crash Bandicoot 2 - N-Tranced.gba",
+  "game-codes": [
+    "AC8E-00",
+    "AC8P-00",
+    "AC8J-00"
+  ],
+  "codes": [
+    {
+      "title": "100% Health",
+      "code": "73005904+1C00 33005924+0064"
+    },
+    {
+      "title": "Infinite lives",
+      "code": "320026EC+0063"
+    },
+    {
+      "title": "Start with 20 boxes",
+      "code": "720026E8+0000 320026E8+0014"
+    },
+    {
+      "title": "Low trial time",
+      "code": "32002714+0000 3200270C+0001 7201DDF8+003C 3201DE04+0000"
+    },
+    {
+      "title": "Have 2 masks",
+      "code": "320026F0+0002"
+    },
+    {
+      "title": "Have 3 masks (Invincible)",
+      "code": "320026F0+0003 72015086+0000 32015085+002F"
+    },
+    {
+      "title": "Have all powers",
+      "code": "320027CB+00FF"
+    },
+    {
+      "title": "Have all gem shards",
+      "code": "320027CA+00FF 32006770+0001"
+    },
+    {
+      "title": "Have all crystals+relics+gems",
+      "code": "420027CC+01FF 00000018+0004"
+    },
+    {
+      "title": "Moon jump",
+      "code": "D0000020+0001 3201505C+0080"
+    }
+  ]
+}

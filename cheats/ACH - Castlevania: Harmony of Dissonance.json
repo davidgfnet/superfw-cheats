@@ -1,0 +1,38 @@
+{
+  "filename": "Castlevania - Harmony of Dissonance.gba",
+  "game-codes": [
+    "ACHE-00",
+    "ACHP-00",
+    "ACHJ-00"
+  ],
+  "codes": [
+    {
+      "title": "Start with 99 Mill",
+      "code": "7201879E+0000 8201879C+E0FF 7201879E+0000 8201879E+05F5"
+    },
+    {
+      "title": "Quick Level-Up",
+      "code": "3201879A+000F"
+    },
+    {
+      "title": "Super-Jump",
+      "code": "D0000020+0001 3200046D+0000"
+    },
+    {
+      "title": "Infinite Jumps (After equipping Sylph feather)",
+      "code": "3200043A+0001"
+    },
+    {
+      "title": "Can move during cutscenes",
+      "code": "32000404+0000 3200001B+0000"
+    },
+    {
+      "title": "Rare ghost always appears in clock tower B (Hold L when entering room)",
+      "code": "D0000020+0200 32000F22+0001"
+    },
+    {
+      "title": "All enemy info in encyclopedia",
+      "code": "42018854+FFFF 00000018+0002"
+    }
+  ]
+}

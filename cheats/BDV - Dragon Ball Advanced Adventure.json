@@ -1,0 +1,59 @@
+{
+  "filename": "Dragon Ball - Advanced Adventure.gba",
+  "game-codes": [
+    "BDVE-00",
+    "BDVP-00",
+    "BDVJ-00",
+    "BDVK-00"
+  ],
+  "codes": [
+    {
+      "title": "Infinite lives",
+      "code": "32029F36+0063"
+    },
+    {
+      "title": "Infinite health",
+      "code": "82020646+04FF"
+    },
+    {
+      "title": "Invincible",
+      "code": "32020658+0002"
+    },
+    {
+      "title": "Infinite Super-Bar",
+      "code": "8202064A+0400"
+    },
+    {
+      "title": "Max health bar",
+      "code": "82020648+04FF"
+    },
+    {
+      "title": "Have invincible power",
+      "code": "32020650+00FF"
+    },
+    {
+      "title": "Kameha charged",
+      "code": "8202064C+0800"
+    },
+    {
+      "title": "Max score",
+      "code": "82020660+E0FF 82020662+05F5"
+    },
+    {
+      "title": "Mega jump",
+      "code": "74000130+03FE 820205CE+FC00"
+    },
+    {
+      "title": "Walk at dashing speed",
+      "code": "720205A8+0005 320205A8+0015 720205A8+0004 320205A8+0014"
+    },
+    {
+      "title": "Have all items found",
+      "code": "42029F58+FFFF 00000004+0002"
+    },
+    {
+      "title": "Have all options open",
+      "code": "42029F50+FFFF 00000004+0002 82029F70+FFFF 82029F72+FFFF"
+    }
+  ]
+}
