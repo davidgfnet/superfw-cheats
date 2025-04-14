@@ -1,0 +1,18 @@
+{
+  "filename": "Need for Speed - Underground 2.gba",
+  "game-codes": [ "BNFE-00" ],
+  "codes": [
+    {
+      "title": "Max Points",
+      "code": "82000904+00FF"
+    },
+    {
+      "title": "9999 x5 for drifting",
+      "code": "83006378+270F"
+    },
+    {
+      "title": "Unlock all cars/upgrades",
+      "code": "82000A7C+FFFF 82000A7E+FFFF 82000F66+FFFF"
+    }
+  ]
+}

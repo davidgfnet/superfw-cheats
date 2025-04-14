@@ -1,0 +1,19 @@
+{
+  "filename": "Tony Hawk's Pro Skater 2.gba",
+  "game-codes": [
+    "ATHD-00",
+    "ATHE-00",
+    "ATHF-00",
+    "ATHJ-00"
+  ],
+  "codes": [
+    {
+      "title": "Unlock SpiderMan",
+      "code": "320013D7+0001"
+    },
+    {
+      "title": "Max career & personal cash (Affects everyone)",
+      "code": "42000D64+EA60 0000000F+007C 420014CC+EA60 00000002+0004 42006F24+EA60 00000002+0004"
+    }
+  ]
+}

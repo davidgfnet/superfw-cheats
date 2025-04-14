@@ -1,0 +1,103 @@
+{
+  "filename": "Yu-Gi-Oh! - Worldwide Edition - Stairway to the Destined Duel.gba",
+  "game-codes": [
+    "AYWE-00",
+    "AYWJ-00",
+    "AYWJ-01",
+    "AYWP-00"
+  ],
+  "codes": [
+    {
+      "title": "Start with 10,000 LP",
+      "code": "72015BE8+0001 82018FE4+2710"
+    },
+    {
+      "title": "Infinite LP",
+      "code": "82018FE4+1F40"
+    },
+    {
+      "title": "Always start first",
+      "code": "3202036E+0000"
+    },
+    {
+      "title": "Press Start+L for maximum duel points",
+      "code": "74000130+01F7 82013D7C+FFFF"
+    },
+    {
+      "title": "Press Start+L to unlock card limit option",
+      "code": "74000130+01F7 32013D88+000F"
+    },
+    {
+      "title": "Direct attacks=5000",
+      "code": "8201816E+1388"
+    },
+    {
+      "title": "Weak opponents",
+      "code": "72019D48+1F40 82019D48+0FA0"
+    },
+    {
+      "title": "Opponents direct-attack does zero damage",
+      "code": "82018162+0000"
+    },
+    {
+      "title": "Press Select+Up for instant win",
+      "code": "74000130+03BB 82019D48+0000"
+    },
+    {
+      "title": "Press Select+Down to access draw phase",
+      "code": "74000130+037B 32015BE8+0002"
+    },
+    {
+      "title": "Free ritual",
+      "code": "32017B21+0000"
+    },
+    {
+      "title": "Press Select+R for free fusion",
+      "code": "74000130+02FB 32017B00+0001 74000130+02FB 32017B12+000D 74000130+02FB 32017B20+007F 73004474+0002 32017B20+007E 74000130+02FB 82017B18+9CE9 74000130+02FB 82017B1A+0803 74000130+02FB 820179C0+024F 74000130+02FB 820179C2+0000 74000130+02FB 32017FB8+0000"
+    },
+    {
+      "title": "No sacrifice",
+      "code": "74000130+02FE 8201AB08+0000 D0000020+0200 8201AB0C+C601"
+    },
+    {
+      "title": "All Cards-In Trunk",
+      "code": "74000130+03FA 42011C2C+0003 0000043A+0004 74000130+02FB 42013CE6+0000 00000004+0002 74000130+02FB 42013C28+0000 0000005F+0002"
+    },
+    {
+      "title": "Press B+Up to access booster menu",
+      "code": "74000130+03BD 830048B6+0000 74000130+03BD 830048B8+071C"
+    },
+    {
+      "title": "Unlock all boosters",
+      "code": "7201F8BC+0001 3201F91C+001B 7201F8BC+0001 3201F8DE+001F 7201F8BC+0001 4201F8E0+001F 0001001A+0002"
+    },
+    {
+      "title": "Hold R+Down to activate Raigeki",
+      "code": "74000130+027F 32017B00+0001 74000130+027F 32017B12+000D 74000130+027F 82017B18+982D 74000130+027F 82017B1A+0803 74000130+027F 820179C0+0153 74000130+027F 820179C2+0050"
+    },
+    {
+      "title": "Hold R+Up to activate Harpie's Feather Duster",
+      "code": "74000130+02BF 32017B00+0001 74000130+02BF 32017B12+000D 74000130+02BF 82017B18+AEC1 74000130+02BF 82017B1A+0803 74000130+02BF 820179C0+02A9 74000130+02BF 820179C2+0050"
+    },
+    {
+      "title": "Press R+Right to activate Monster Reborn",
+      "code": "74000130+02EF 8201AB08+0161 74000130+02EF 8201AB0C+441A 74000130+02EF 8201AB10+0004 74000130+02EF 8201AB12+2D00 74000130+02EF 8201AB14+0A00"
+    },
+    {
+      "title": "Press R+Left to activate Change of Heart",
+      "code": "74000130+02DF 8201AB08+0128 74000130+02DF 8201AB0C+441A 74000130+02DF 8201AB10+0004 74000130+02DF 8201AB12+2C00 74000130+02DF 8201AB14+0A00"
+    },
+    {
+      "title": "Press Start+Down to start Pyramid Scenario",
+      "code": "74000130+0377 82013D7E+8400 74000130+0377 82013D80+003F"
+    },
+    {
+      "title": "Press L+R+Down to access all characters",
+      "code": "74000130+007F 42013D8C+0010 0001000E+0004 74000130+007F 42013DC4+0010 00010009+0004"
+    },
+    {
+      "title": "20 Wins/0 loses all characters",
+      "code": "42013CF4+0014 00000017+0004"
+    }
+  ]
+}

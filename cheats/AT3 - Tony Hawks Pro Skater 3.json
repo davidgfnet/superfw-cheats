@@ -1,0 +1,26 @@
+{
+  "filename": "Tony Hawks Pro Skater 3.gba",
+  "game-codes": [
+    "AT3D-00",
+    "AT3E-00",
+    "AT3F-00"
+  ],
+  "codes": [
+    {
+      "title": "Have Wolverine",
+      "code": "32007691+0001"
+    },
+    {
+      "title": "Have Shaun Palmer",
+      "code": "320076F1+0001"
+    },
+    {
+      "title": "Have Mindy",
+      "code": "32007751+0001"
+    },
+    {
+      "title": "Unlock Trial-Mode",
+      "code": "3200778D+0001"
+    }
+  ]
+}

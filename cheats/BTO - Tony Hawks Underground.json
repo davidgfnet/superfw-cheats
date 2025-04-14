@@ -1,0 +1,26 @@
+{
+  "filename": "Tony Hawk's Underground.gba",
+  "game-codes": [ "BTOE-00" ],
+  "codes": [
+    {
+      "title": "Infinite money",
+      "code": "8200D864+FFFF"
+    },
+    {
+      "title": "Max money",
+      "code": "8200D864+967F 8200D866+0098"
+    },
+    {
+      "title": "Unlock all courses",
+      "code": "4200DE24+0001 0000000A+0002"
+    },
+    {
+      "title": "Unlock all players",
+      "code": "8200DE4C+FFFF 3200DE4E+000F"
+    },
+    {
+      "title": "Unlock all cheats",
+      "code": "8200D364+FFFF"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "filename": "Need for Speed - Underground.gba",
+  "game-codes": [ "BNSE-00" ],
+  "codes": [
+    {
+      "title": "Infinite credits",
+      "code": "820008D4+FFFF 820008D6+7FFF"
+    },
+    {
+      "title": "Unlock all upgrades/cars/tracks",
+      "code": "82000838+FFFF 8200083A+FFFF"
+    },
+    {
+      "title": "Race time is 0:0:01 (you win)",
+      "code": "83005F0C+0000 83005F0E+0000"
+    },
+    {
+      "title": "Drift score is 999,999",
+      "code": "83006A24+423F 83006A26+000F"
+    },
+    {
+      "title": "Drift multiplier is 99",
+      "code": "33006A0C+0009"
+    }
+  ]
+}

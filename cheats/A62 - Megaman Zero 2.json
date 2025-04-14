@@ -1,0 +1,102 @@
+{
+  "filename": "Mega Man Zero 2.gba",
+  "game-codes": [
+    "A62E-00",
+    "A62P-00",
+    "A62J-00"
+  ],
+  "codes": [
+    {
+      "title": "Invincible",
+      "code": "32037D84+0002"
+    },
+    {
+      "title": "Infinite lives",
+      "code": "82036BB4+0009"
+    },
+    {
+      "title": "Infinite health",
+      "code": "82037D94+0024"
+    },
+    {
+      "title": "Maximum health",
+      "code": "32037EED+0024"
+    },
+    {
+      "title": "Have all weapon levels maxed",
+      "code": "82037F12+0408 82037F14+0202"
+    },
+    {
+      "title": "Have all weapons+elements",
+      "code": "82037F00+0F0F"
+    },
+    {
+      "title": "Infinite Dash",
+      "code": "32037E74+00FE"
+    },
+    {
+      "title": "Rapid Fire",
+      "code": "32037FAA+0000"
+    },
+    {
+      "title": "Quick weapon charge",
+      "code": "32037E78+00FF"
+    },
+    {
+      "title": "Weak bosses",
+      "code": "8203BBF4+0001 8203BB10+0001"
+    },
+    {
+      "title": "Rank S",
+      "code": "32036BB5+0006"
+    },
+    {
+      "title": "Multi Jump",
+      "code": "74000130+03FE 82037D50+FD40 74000130+03FE 82037D52+FFFF"
+    },
+    {
+      "title": "9999 crystals",
+      "code": "82037EEE+270F"
+    },
+    {
+      "title": "Have all forms",
+      "code": "82037EF0+FFFF"
+    },
+    {
+      "title": "Have all EX techs",
+      "code": "82037F06+FFFF"
+    },
+    {
+      "title": "Have sub banks",
+      "code": "32037EF4+0004"
+    },
+    {
+      "title": "Sub tanks full",
+      "code": "82037EF6+1E1E 82037EF8+1E1E"
+    },
+    {
+      "title": "Have all Cyber-Elves",
+      "code": "42037F18+FFFF 0000000B+0002"
+    },
+    {
+      "title": "Have all Elves fully grown",
+      "code": "42037F60+0101 0000000A+0002 32037F60+0002 32037F69+0002 32037F6E+0002"
+    },
+    {
+      "title": "Infinite Elf usage",
+      "code": "42037F2E+0000 00000006+0002"
+    },
+    {
+      "title": "Press Select+R to access Elf setup-menu",
+      "code": "74000130+02FB 8202F8E2+3E03 7202F8E2+0203 8202F8E2+0303"
+    },
+    {
+      "title": "Have all elements equipped",
+      "code": "72037F04+0000 82037F04+0600"
+    },
+    {
+      "title": "Ciel's timer hits 0 fast",
+      "code": "7202EDB4+1500 8202EDB4+0005"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "filename": "Mega Man Battle Network 2.gba",
+  "game-codes": [
+    "AE2E-00",
+    "AE2J-00",
+    "AE2J-01"
+  ],
+  "codes": [
+    {
+      "title": "Invincible",
+      "code": "82008A9A+00FF"
+    },
+    {
+      "title": "Infinite HP",
+      "code": "82008A94+270F"
+    },
+    {
+      "title": "Maximum HP",
+      "code": "82001132+270F"
+    },
+    {
+      "title": "Full custom Bar",
+      "code": "82004F0C+4000"
+    },
+    {
+      "title": "Infinite Zenny",
+      "code": "82008A60+C350"
+    },
+    {
+      "title": "No random battles",
+      "code": "82009082+0000"
+    },
+    {
+      "title": "Weak enemies",
+      "code": "42008B54+0001 00000003+00C0"
+    },
+    {
+      "title": "Cheap chip trader",
+      "code": "82009B28+0009"
+    },
+    {
+      "title": "99MB regular Mem",
+      "code": "32000DD7+0063"
+    }
+  ]
+}

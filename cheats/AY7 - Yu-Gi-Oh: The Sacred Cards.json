@@ -1,0 +1,42 @@
+{
+  "filename": "Yu-Gi-Oh! - The Sacred Cards.gba",
+  "game-codes": [
+    "AY7E-00",
+    "AY7P-00",
+    "AY7J-00"
+  ],
+  "codes": [
+    {
+      "title": "Have all cards",
+      "code": "32020771+0063 42020772+6363 000001C1+0002 32020AF4+0063"
+    },
+    {
+      "title": "Max LP",
+      "code": "8202347C+270F"
+    },
+    {
+      "title": "Infinite money",
+      "code": "82020DA0+E0FF 82020DA2+05F5"
+    },
+    {
+      "title": "Infinite deck capacity",
+      "code": "82020C3C+270F"
+    },
+    {
+      "title": "Hold Select for infinite tribute",
+      "code": "74000130+03FB 32023448+0006"
+    },
+    {
+      "title": "Max duelist level",
+      "code": "82020C40+03E7"
+    },
+    {
+      "title": "Infinite summonings",
+      "code": "42023204+0000 00000005+0004"
+    },
+    {
+      "title": "All cards face down",
+      "code": "420231B4+0000 00000005+0004"
+    }
+  ]
+}

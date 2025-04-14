@@ -1,0 +1,46 @@
+{
+  "filename": "Tony Hawk's Underground 2.gba",
+  "game-codes": [ "B2TE-00" ],
+  "codes": [
+    {
+      "title": "Max stats",
+      "code": "4200EE04+000F 00000008+0004"
+    },
+    {
+      "title": "Have all skaters",
+      "code": "82008AEC+FFFF"
+    },
+    {
+      "title": "Have all arcade levels",
+      "code": "42008132+FFFF 0000004E+0002"
+    },
+    {
+      "title": "Have all cheats",
+      "code": "8200812C+FFFF"
+    },
+    {
+      "title": "Story mode stages complete / Have all free-style levels",
+      "code": "420089E4+0100 02020065+0002"
+    },
+    {
+      "title": "Have all mini games",
+      "code": "3200844C+000F"
+    },
+    {
+      "title": "Infinite time (Tennis Shooter Mini Game)",
+      "code": "8201DB3C+0E43"
+    },
+    {
+      "title": "Infinite ammo (Tennis Shooter Mini Game)",
+      "code": "3201DB6C+0063"
+    },
+    {
+      "title": "Infinite time (Stylin Mini Game)",
+      "code": "820196C8+0E43"
+    },
+    {
+      "title": "Have 0 misses (Taggin Mini Game)",
+      "code": "320152F0+0000"
+    }
+  ]
+}

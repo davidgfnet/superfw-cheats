@@ -1,0 +1,25 @@
+{
+  "filename": "Medabots - Metabee / Rokusho.gba",
+  "game-codes": [
+    "A8BE-00",
+    "A8BP-00",
+    "A8BS-00",
+    "A9BE-00",
+    "A9BP-00",
+    "A9BS-00"
+  ],
+  "codes": [
+    {
+      "title": "Infinite cash",
+      "code": "83002B70+C350 33002B72+0001"
+    },
+    {
+      "title": "No random Robattles",
+      "code": "3300640B+0000"
+    },
+    {
+      "title": "Infinite time during Robattles",
+      "code": "33001856+000A"
+    }
+  ]
+}

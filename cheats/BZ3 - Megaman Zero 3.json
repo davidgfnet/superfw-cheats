@@ -1,0 +1,162 @@
+{
+  "filename": "Mega Man Zero 3.gba",
+  "game-codes": [
+    "BZ3P-00",
+    "BZ3E-00",
+    "BZ3J-00"
+  ],
+  "codes": [
+    {
+      "title": "Unlock bonus Mini-Game menu",
+      "code": "8200244A+443E"
+    },
+    {
+      "title": "Enable all minigames",
+      "code": "8200244A+443E 8200244C+504A 8200244E+5C56 32002450+0061"
+    },
+    {
+      "title": "No misses (Ciel Mini-Game)",
+      "code": "32031CB3+0000"
+    },
+    {
+      "title": "Press L+R to refill timer (Leviathon Mini-Game)",
+      "code": "74000130+00FF 82031C8C+0708"
+    },
+    {
+      "title": "Infinite lives (Phantom Mini-Game)",
+      "code": "72031D40+0203 82031D40+0303"
+    },
+    {
+      "title": "Infinite lives (Zero, Copy X & Harpuia Mini-Games)",
+      "code": "72031C78+0002 82031C78+0003"
+    },
+    {
+      "title": "Unlock EXE Enemies in Cyberspace",
+      "code": "82002470+FFFF"
+    },
+    {
+      "title": "Infinite lives (Mini-Game 1)",
+      "code": "32031C78+0004"
+    },
+    {
+      "title": "No misses (Mini-Game 2)",
+      "code": "32031CB3+0000"
+    },
+    {
+      "title": "Infinite double jumps",
+      "code": "320380BA+0000"
+    },
+    {
+      "title": "Low game time",
+      "code": "820372BC+0000"
+    },
+    {
+      "title": "S Rank",
+      "code": "320372B1+0006"
+    },
+    {
+      "title": "Infinite lives",
+      "code": "320372B0+0009"
+    },
+    {
+      "title": "Invincible",
+      "code": "32038034+0002"
+    },
+    {
+      "title": "Infinite health",
+      "code": "32038044+0020"
+    },
+    {
+      "title": "Have double health bar",
+      "code": "32037045+0001"
+    },
+    {
+      "title": "Infinite crystals",
+      "code": "8203805A+270F"
+    },
+    {
+      "title": "Infinite Dash",
+      "code": "320380B0+00FF"
+    },
+    {
+      "title": "Have reservetanks",
+      "code": "8203805C+2020 8203805E+2020"
+    },
+    {
+      "title": "Have all weapons",
+      "code": "3203806A+000F"
+    },
+    {
+      "title": "Have all armor upgrades",
+      "code": "3203806B+00FF 8203806C+FFFF"
+    },
+    {
+      "title": "Have all EX parts",
+      "code": "82038068+FFFF"
+    },
+    {
+      "title": "Have all chips",
+      "code": "420371B8+FFFF 00000017+0002"
+    },
+    {
+      "title": "Have all HP upgrades",
+      "code": "42037218+0F0F 00000004+0002"
+    },
+    {
+      "title": "Spike protection upgrade",
+      "code": "82037232+0F0F"
+    },
+    {
+      "title": "Have all Cyber-Elves used",
+      "code": "42037218+0F0F 00000025+0002"
+    },
+    {
+      "title": "Quick weapon charge",
+      "code": "7203807C+0606 8203807C+C8C8"
+    },
+    {
+      "title": "Have all Elves fully grown",
+      "code": "42037218+0505 00000025+0002"
+    },
+    {
+      "title": "Jump through ceilings",
+      "code": "74000130+03FE E2037FF8+FCB0"
+    },
+    {
+      "title": "Hold L+A for moon-jump",
+      "code": "72001EB0+FE01 32037FAE+0000"
+    },
+    {
+      "title": "Infinite time in timed events",
+      "code": "82030324+0690"
+    },
+    {
+      "title": "1-Kill needed to pass timed event",
+      "code": "72030328+0000 82030328+0018"
+    },
+    {
+      "title": "Press Select to drain boss' energy",
+      "code": "74000130+03FB 8203BE44+0001 74000130+03FB 8203BD60+0001"
+    },
+    {
+      "title": "Jump to last stage",
+      "code": "82030104+FFAF"
+    },
+    {
+      "title": "Insane full base makeover",
+      "code": "42002426+FFFF 00000025+0002"
+    },
+    {
+      "title": "Boss has triple health (use Select+Start)",
+      "code": "74000130+03F3 3203BE44+0060 74000130+03F3 3203BD60+0060"
+    },
+    {
+      "title": "255 enemies killed, scores an extra 15 points",
+      "code": "3203016E+00FF"
+    },
+    {
+      "title": "Zero damage taken, scores another extra 15 points",
+      "code": "3203016E+0000"
+    }
+  ]
+}

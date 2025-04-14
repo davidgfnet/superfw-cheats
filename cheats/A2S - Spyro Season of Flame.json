@@ -1,0 +1,41 @@
+{
+  "filename": "Spyro 2 - Season of Flame.gba",
+  "game-codes": [
+    "A2SE-00",
+    "A2SP-00"
+  ],
+  "codes": [
+    {
+      "title": "Infinite health",
+      "code": "330043C4+0003"
+    },
+    {
+      "title": "Infinite lives",
+      "code": "33001C5E+0009"
+    },
+    {
+      "title": "Have 8000 gems",
+      "code": "83001C58+1F40"
+    },
+    {
+      "title": "8000/8000 total gems",
+      "code": "83001C5A+1F40"
+    },
+    {
+      "title": "Reset timer",
+      "code": "83001618+0000 8300161A+0000"
+    },
+    {
+      "title": "All bosses beaten",
+      "code": "83001C64+FFFF"
+    },
+    {
+      "title": "Infinite health (Boss fights)",
+      "code": "7300443C+0002 3300443C+0003"
+    },
+    {
+      "title": "Unlock Sparx Panic",
+      "code": "33001CAC+0020"
+    }
+  ]
+}

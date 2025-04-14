@@ -1,0 +1,26 @@
+{
+  "filename": "Mega Man Zero 4.gba",
+  "game-codes": [
+    "B4ZE-00",
+    "B4ZP-00",
+    "B4ZJ-00"
+  ],
+  "codes": [
+    {
+      "title": "Infinite energy - Level F",
+      "code": "320366A4+0020"
+    },
+    {
+      "title": "Infinite Dash",
+      "code": "3203673A+00FE"
+    },
+    {
+      "title": "Infinite time",
+      "code": "820303F0+0E10"
+    },
+    {
+      "title": "Always have 9 lives",
+      "code": "32035910+0009"
+    }
+  ]
+}
