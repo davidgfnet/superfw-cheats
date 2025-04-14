@@ -1,15 +1,38 @@
 {
-  "filename": "Pokemon - FireRed Version (USA, Europe) (Rev 1).gba",
+  "filename": "Pokemon - FireRed / LeafGreen Version.gba",
   "game-codes": [
-    "BPRE-01"
+    "BPRD-00",
+    "BPRE-00",
+    "BPRE-01",
+    "BPRF-00",
+    "BPRI-00",
+    "BPRJ-00",
+    "BPRJ-01",
+    "BPRS-00",
+    "BPGD-00",
+    "BPGE-00",
+    "BPGE-01",
+    "BPGF-00",
+    "BPGI-00",
+    "BPGJ-00",
+    "BPGJ-01",
+    "BPGS-00"
   ],
   "codes": [
     {
-      "title": "Weak Opponents",
+      "title": "Get 999999 pokedollars",
+      "code": "820257BC+423F 820257BE+000F"
+    },
+    {
+      "title": "Weak opponents",
       "code": "42024082+0000 00000006+0064"
     },
     {
-      "title": "Wild PKMN Easily Caught",
+      "title": "Infinite PP",
+      "code": "42023C08+6363 00000002+0002"
+    },
+    {
+      "title": "Wild Pokemon easily caught",
       "code": "72023D74+9A84 82023D74+9AC3"
     },
     {
@@ -21,8 +44,8 @@
       "code": "72036E3C+0100 32036E43+0000"
     },
     {
-      "title": "Quick Egg Hatch",
-      "code": "32028642+00FE"
+      "title": "Quick egg hatch",
+      "code": "820285C6+00FE"
     },
     {
       "title": "1st Pokemon Max Stats",
@@ -49,16 +72,8 @@
       "code": "420244CE+03E7 00000007+0002"
     },
     {
-      "title": "Infinite PP",
-      "code": "42023C08+6363 00000002+0002"
-    },
-    {
       "title": "Infinite Safari Time",
       "code": "82039996+0258"
-    },
-    {
-      "title": "Free Daycare",
-      "code": "820370C2+0000"
     }
   ]
 }

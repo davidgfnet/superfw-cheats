@@ -1,0 +1,47 @@
+{
+  "filename": "Harvest Moon - Friends of Mineral Town.gba",
+  "game-codes": [
+    "A4ND-00",
+    "A4NE-00",
+    "A4NP-00",
+    "A4NJ-00"
+  ],
+  "codes": [
+    {
+      "title": "Max gold",
+      "code": "820068B4+E0FF 820068B6+05F5"
+    },
+    {
+      "title": "Infinite stamina",
+      "code": "32006A29+004B 32006A2A+002A"
+    },
+    {
+      "title": "Infinite lumber",
+      "code": "82004E30+03E7"
+    },
+    {
+      "title": "Max backpack slots",
+      "code": "32006A44+0008"
+    },
+    {
+      "title": "Press Select for fully-expanded house",
+      "code": "74000130+03FB 82005000+009A 74000130+03FB 82005001+FF9A 74000130+03FB 82005003+FF00 74000130+03FB 82005004+FFFF 74000130+03FB 82005005+FFFF"
+    },
+    {
+      "title": "Infinite horse race medals",
+      "code": "82007A54+9BFF"
+    },
+    {
+      "title": "Max earnings in current year",
+      "code": "820069B4+FFFF 820069B6+FFFF"
+    },
+    {
+      "title": "Really fast running power",
+      "code": "7203907A+0002 E203906A+000A 7203907A+FFFE E203906A+FFF5 7203907E+0002 E203906E+000A 7203907E+FFFE E203906E+FFF5"
+    },
+    {
+      "title": "Press L to increase time much faster",
+      "code": "74000130+03DF E2004E1E+0100"
+    }
+  ]
+}
