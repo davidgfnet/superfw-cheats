@@ -1,0 +1,41 @@
+{
+  "filename": "LEGO Bionicle.gba",
+  "game-codes": [
+    "ALBE-00",
+    "ALBP-00"
+  ],
+  "codes": [
+    {
+      "title": "Max energy",
+      "code": "33002500+0010"
+    },
+    {
+      "title": "Max health",
+      "code": "330029E4+0010"
+    },
+    {
+      "title": "Infinite health",
+      "code": "33002524+000A"
+    },
+    {
+      "title": "Infinite energy",
+      "code": "330029E0+0020"
+    },
+    {
+      "title": "Infinite black Magu fruit",
+      "code": "33003A78+0096"
+    },
+    {
+      "title": "Infinite blue Magu fruit",
+      "code": "33003A9C+0096"
+    },
+    {
+      "title": "Infinite explosive red Magu fruit",
+      "code": "33003AB0+0096"
+    },
+    {
+      "title": "Infinite gray Magu fruit",
+      "code": "33003B04+0096"
+    }
+  ]
+}

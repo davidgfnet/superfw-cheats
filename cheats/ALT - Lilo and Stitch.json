@@ -1,0 +1,38 @@
+{
+  "filename": "Lilo & Stitch.gba",
+  "game-codes": [
+    "ALTE-00",
+    "ALTP-00",
+    "ALTP-01"
+  ],
+  "codes": [
+    {
+      "title": "Rapid fire",
+      "code": "D0000020+0002 820007C8+0000"
+    },
+    {
+      "title": "Infinite lives",
+      "code": "32001140+0063"
+    },
+    {
+      "title": "Quick score gain",
+      "code": "82000A58+FFFF"
+    },
+    {
+      "title": "Max score",
+      "code": "82000A58+423F 82000A5A+000F"
+    },
+    {
+      "title": "Fighter takes no damage",
+      "code": "3200D814+000F"
+    },
+    {
+      "title": "Unlock all movies",
+      "code": "32000E70+00FF"
+    },
+    {
+      "title": "Unlock all pictures",
+      "code": "32001144+00FF"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "filename": "Grand Theft Auto Advance .gba",
+  "game-codes": [
+    "BGTE-00",
+    "BGTP-00"
+  ],
+  "codes": [
+    {
+      "title": "Infinite health",
+      "code": "32000F22+0064 3202582A+0064"
+    },
+    {
+      "title": "6-Star 'Wanted' rating - True",
+      "code": "32030340+0006"
+    },
+    {
+      "title": "6-Star 'Wanted' rating - On-Screen",
+      "code": "3202581A+0006"
+    },
+    {
+      "title": "Infinite time",
+      "code": "82025818+0000"
+    },
+    {
+      "title": "Infinite ammo",
+      "code": "4200108E+00FF 0000000B+0008"
+    },
+    {
+      "title": "Car weapon",
+      "code": "820010E4+010C 320010E6+00FF"
+    },
+    {
+      "title": "Have all weapons",
+      "code": "4200108C+0101 0001000B+0008"
+    },
+    {
+      "title": "Zero wanted level",
+      "code": "32030340+0000 3202581A+0000"
+    },
+    {
+      "title": "Infinite armor",
+      "code": "320079A0+0064 32025828+0064"
+    },
+    {
+      "title": "Infinite money",
+      "code": "8202581C+FFFF 82025824+FFFF"
+    },
+    {
+      "title": "Max money",
+      "code": "8202581C+E0FF 8202581E+05F5 82025824+E0FF 82025826+05F5"
+    },
+    {
+      "title": "Have all weapons/infinite ammo",
+      "code": "4200108C+0101 0001000F+0008 4200108E+00FF 0000000F+0008"
+    },
+    {
+      "title": "Max amount of arrests in vigilante",
+      "code": "320360F2+0063 320360F5+0063"
+    }
+  ]
+}

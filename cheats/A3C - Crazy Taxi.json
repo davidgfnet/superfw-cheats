@@ -1,0 +1,25 @@
+{
+  "filename": "Crazy Taxi.gba",
+  "game-codes": [
+    "A3CP-00",
+    "A3CE-00"
+  ],
+  "codes": [
+    {
+      "title": "Win Crazy-Box event",
+      "code": "D0000020+0004 8200153C+0101"
+    },
+    {
+      "title": "Infinite time",
+      "code": "820016A8+1068"
+    },
+    {
+      "title": "Infinite time for passengers",
+      "code": "820016AC+1068"
+    },
+    {
+      "title": "Max fare multiplier",
+      "code": "820016A0+FFFF"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "filename": "F-Zero - GP Legend.gba",
+  "game-codes": [
+    "BFZP-00",
+    "BFZE-00",
+    "BFZJ-00"
+  ],
+  "codes": [
+    {
+      "title": "Always low time",
+      "code": "7201759C+0001 8201759C+0000"
+    },
+    {
+      "title": "Infinite health",
+      "code": "820149BA+3400"
+    },
+    {
+      "title": "Turbo boost",
+      "code": "D0000020+0001 820149A4+5000"
+    },
+    {
+      "title": "Infinite boost time",
+      "code": "720149BC+0001 320149BC+00FF"
+    },
+    {
+      "title": "Have booster",
+      "code": "320149EB+0001"
+    },
+    {
+      "title": "Infinite spare machines",
+      "code": "3300122D+0004"
+    },
+    {
+      "title": "Always 1st place",
+      "code": "83001250+0300 83001252+0102"
+    },
+    {
+      "title": "Start on last lap",
+      "code": "720149DC+00FF 820149DC+0404"
+    },
+    {
+      "title": "Max race points",
+      "code": "83001690+03E7"
+    },
+    {
+      "title": "Have all Cars",
+      "code": "82008C18+FFFF 82008C1A+FFFF"
+    },
+    {
+      "title": "Have all Cups Open",
+      "code": "82008C2C+FFFF 82008C28+FFFF"
+    },
+    {
+      "title": "Have all Gran Prix Races won",
+      "code": "82008C2A+FFFF"
+    },
+    {
+      "title": "Have all Zero Test classes Open",
+      "code": "32008C48+0004"
+    },
+    {
+      "title": "Have all Zero tests complete",
+      "code": "42008CAC+FFFF 00000008+0002"
+    },
+    {
+      "title": "Max Cash in story mode",
+      "code": "42008C38+FFFF 00000004+0002"
+    },
+    {
+      "title": "Have all story levels open",
+      "code": "42008C30+1F1F 00000004+0002"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "filename": "Banjo-Kazooie - Grunty's Revenge.gba",
+  "game-codes": [
+    "BKZE-00",
+    "BKZI-00",
+    "BKZS-00",
+    "BKZX-00"
+  ],
+  "codes": [
+    {
+      "title": "Infinite life",
+      "code": "32001057+0008"
+    },
+    {
+      "title": "Max life",
+      "code": "32001059+0008"
+    },
+    {
+      "title": "Stop timer",
+      "code": "32036056+0032 32036058+0032 3203F93B+0032"
+    },
+    {
+      "title": "Infinite eggs",
+      "code": "32001052+0019"
+    },
+    {
+      "title": "Infinite explosive eggs",
+      "code": "32001053+0019"
+    },
+    {
+      "title": "Infinite ice eggs",
+      "code": "32001054+0019"
+    },
+    {
+      "title": "Infinite fire eggs",
+      "code": "32001055+0019"
+    },
+    {
+      "title": "Infinite golden feathers",
+      "code": "32001056+0019"
+    },
+    {
+      "title": "Infinite air",
+      "code": "3200105A+0005"
+    },
+    {
+      "title": "Notes 600/600",
+      "code": "82001050+0267"
+    },
+    {
+      "title": "Bozzeye 15/15",
+      "code": "3200104B+000F"
+    },
+    {
+      "title": "Hollow honeycombs 12/12",
+      "code": "32001045+000C"
+    },
+    {
+      "title": "Jiggies 60/60",
+      "code": "32001046+003C"
+    },
+    {
+      "title": "Press L+R to access debug menu",
+      "code": "83002AA8+9DD9 83002AAA+0800 74000130+00FF 83002AA8+0BA9 74000130+00FF 83002AAA+0801"
+    }
+  ]
+}

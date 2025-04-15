@@ -1,0 +1,193 @@
+{
+  "filename": "Mortal Kombat Advance.gba",
+  "game-codes": [
+    "AM5E-00",
+    "AM5P-00"
+  ],
+  "codes": [
+    {
+      "title": "Infinite health P1",
+      "code": "32000020+0028"
+    },
+    {
+      "title": "75% health P1",
+      "code": "72000020+FF28 32000020+001E"
+    },
+    {
+      "title": "50% health P1",
+      "code": "72000020+FF28 32000020+0014"
+    },
+    {
+      "title": "25% health P1",
+      "code": "72000020+FF28 32000020+000A"
+    },
+    {
+      "title": "1-Hit death P1",
+      "code": "72000020+FF28 32000020+0001"
+    },
+    {
+      "title": "No health P1",
+      "code": "32000020+0000"
+    },
+    {
+      "title": "Infinite health P2",
+      "code": "32000088+0028"
+    },
+    {
+      "title": "75% health P2",
+      "code": "72000088+FF28 32000088+001E"
+    },
+    {
+      "title": "50% health P2",
+      "code": "72000088+FF28 32000088+0014"
+    },
+    {
+      "title": "25% health P2",
+      "code": "72000088+FF28 32000088+000A"
+    },
+    {
+      "title": "1-Hit death P2",
+      "code": "72000088+FF28 32000088+0001"
+    },
+    {
+      "title": "No health P2",
+      "code": "32000088+0000"
+    },
+    {
+      "title": "Infinite time",
+      "code": "320001AC+0063"
+    },
+    {
+      "title": "P1 needs 1 win to win",
+      "code": "72000028+0000 32000029+0001"
+    },
+    {
+      "title": "P1 never wins",
+      "code": "32000029+0000"
+    },
+    {
+      "title": "P2 needs 1 win to win",
+      "code": "72000090+0000 32000091+0001"
+    },
+    {
+      "title": "P2 never wins",
+      "code": "32000091+0000"
+    },
+    {
+      "title": "P1 always Rain",
+      "code": "3202F6A8+0000"
+    },
+    {
+      "title": "P1 always Reptile",
+      "code": "3202F6A8+0001"
+    },
+    {
+      "title": "P1 always Stryker",
+      "code": "3202F6A8+0002"
+    },
+    {
+      "title": "P1 always Jax",
+      "code": "3202F6A8+0003"
+    },
+    {
+      "title": "P1 always Night Wolf",
+      "code": "3202F6A8+0004"
+    },
+    {
+      "title": "P1 always Jade",
+      "code": "3202F6A8+0005"
+    },
+    {
+      "title": "P1 always Noob Saibot",
+      "code": "3202F6A8+0006"
+    },
+    {
+      "title": "P1 always Sonya",
+      "code": "3202F6A8+0007"
+    },
+    {
+      "title": "P1 always Kano",
+      "code": "3202F6A8+0008"
+    },
+    {
+      "title": "P1 always Mileena",
+      "code": "3202F6A8+0009"
+    },
+    {
+      "title": "P1 always Ermac",
+      "code": "3202F6A8+000A"
+    },
+    {
+      "title": "P1 always Sub Zero",
+      "code": "3202F6A8+000B"
+    },
+    {
+      "title": "P1 always Sub Zero (Unmasked)",
+      "code": "3202F6A8+000C"
+    },
+    {
+      "title": "P1 always Kung Lao",
+      "code": "3202F6A8+000D"
+    },
+    {
+      "title": "P1 always Sektor",
+      "code": "3202F6A8+000E"
+    },
+    {
+      "title": "P1 always Kitana",
+      "code": "3202F6A8+000F"
+    },
+    {
+      "title": "P1 always Human Smoke",
+      "code": "3202F6A8+0010"
+    },
+    {
+      "title": "P1 always Scorpion",
+      "code": "3202F6A8+0011"
+    },
+    {
+      "title": "P1 always Cyrax",
+      "code": "3202F6A8+0012"
+    },
+    {
+      "title": "P1 always Kabal",
+      "code": "3202F6A8+0013"
+    },
+    {
+      "title": "P1 always Sindel",
+      "code": "3202F6A8+0014"
+    },
+    {
+      "title": "P1 always Smoke",
+      "code": "3202F6A8+0015"
+    },
+    {
+      "title": "P1 always Liu Kang",
+      "code": "3202F6A8+0016"
+    },
+    {
+      "title": "P1 always Shang Tsung",
+      "code": "3202F6A8+0017"
+    },
+    {
+      "title": "P1 always Motaro",
+      "code": "3202F6A8+0018"
+    },
+    {
+      "title": "P1 always Shao Kahn",
+      "code": "3202F6A8+0019"
+    },
+    {
+      "title": "Hidden character always Human Smoke",
+      "code": "320001A8+0001"
+    },
+    {
+      "title": "Hidden character always Motaro",
+      "code": "320001A8+0002"
+    },
+    {
+      "title": "Hidden character always Shao Kahn",
+      "code": "320001A8+0003"
+    }
+  ]
+}

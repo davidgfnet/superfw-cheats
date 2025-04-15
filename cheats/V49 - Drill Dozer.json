@@ -1,0 +1,54 @@
+{
+  "filename": "Drill Dozer.gba",
+  "game-codes": [
+    "V49E-00",
+    "V49P-00",
+    "V49J-00"
+  ],
+  "codes": [
+    {
+      "title": "Invincible",
+      "code": "320346D1+0002"
+    },
+    {
+      "title": "Unlimited energy",
+      "code": "820346BC+02BC"
+    },
+    {
+      "title": "Always 3rd gear",
+      "code": "3300118C+0002"
+    },
+    {
+      "title": "Have 10,000 chips",
+      "code": "82034670+2710"
+    },
+    {
+      "title": "Have all energy tanks",
+      "code": "3203463C+0005"
+    },
+    {
+      "title": "Have Mega-Drill bit",
+      "code": "3203463B+0002"
+    },
+    {
+      "title": "Have all gears",
+      "code": "820346B6+0100 320346B8+0001"
+    },
+    {
+      "title": "Have all treasures",
+      "code": "82034668+FFFF 8203466A+FFFF"
+    },
+    {
+      "title": "Access all areas",
+      "code": "82034660+FFFF 82034670+FFFF"
+    },
+    {
+      "title": "Multi Jump",
+      "code": "D0000020+0001 33000E3C+0004 D0000020+0001 83000EA6+FFFC"
+    },
+    {
+      "title": "Quick Rev",
+      "code": "7300114C+0007 3300114C+000F"
+    }
+  ]
+}

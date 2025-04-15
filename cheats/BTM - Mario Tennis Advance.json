@@ -1,0 +1,34 @@
+{
+  "filename": "Mario Tennis Advance.gba",
+  "game-codes": [
+    "BTME-00",
+    "BTMP-00",
+    "BTMJ-00"
+  ],
+  "codes": [
+    {
+      "title": "Infinite EXP (hold R+A)",
+      "code": "74000130+02FE 83002C38+0005"
+    },
+    {
+      "title": "Infinite special",
+      "code": "320004CD+0030"
+    },
+    {
+      "title": "Always win",
+      "code": "820002BC+0004"
+    },
+    {
+      "title": "Max status (Boy)",
+      "code": "420003F0+1E1E 00000006+0002 420003FC+6363 00000005+0002"
+    },
+    {
+      "title": "Max status (Girl)",
+      "code": "42000440+1E1E 00000006+0002 4200044C+6363 00000005+0002"
+    },
+    {
+      "title": "Max SS status",
+      "code": "420005D0+2710 00000008+0002 420005E0+0063 00000008+0002"
+    }
+  ]
+}

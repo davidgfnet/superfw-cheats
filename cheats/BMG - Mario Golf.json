@@ -1,0 +1,55 @@
+{
+  "filename": "Mario Golf - Advance Tour.gba",
+  "game-codes": [
+    "BMGD-00",
+    "BMGE-00",
+    "BMGF-00",
+    "BMGI-00",
+    "BMGJ-00",
+    "BMGP-00",
+    "BMGS-00",
+    "BMGU-00"
+  ],
+  "codes": [
+    {
+      "title": "Always have 0 shots (perfect score)",
+      "code": "32000936+0000"
+    },
+    {
+      "title": "Max score",
+      "code": "8200052E+FF99"
+    },
+    {
+      "title": "Max exp",
+      "code": "83002610+270F"
+    },
+    {
+      "title": "Go to level 99 with no exp usage",
+      "code": "83002614+6C15 83002618+6C15"
+    },
+    {
+      "title": "Press L+R+Up to refill stat points",
+      "code": "74000130+00BF 330019F6+0063"
+    },
+    {
+      "title": "Press L+R+Down to deplete stat points",
+      "code": "74000130+007F 330019F6+0000"
+    },
+    {
+      "title": "Max stats on level-up",
+      "code": "4300262E+6262 00000005+0002"
+    },
+    {
+      "title": "Infinite power shots",
+      "code": "320009D4+0063 320313B2+0063"
+    },
+    {
+      "title": "Infinite Mulligans",
+      "code": "320009D6+0063"
+    },
+    {
+      "title": "Wireless adaptor option in multiplayer menu/club Exchange Menu (L & R)",
+      "code": "720083A0+2003 74000130+00FF 330038C8+0002"
+    }
+  ]
+}

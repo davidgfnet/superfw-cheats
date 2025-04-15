@@ -1,0 +1,49 @@
+{
+  "filename": "The Lord of the Rings - The Two Towers.gba",
+  "game-codes": [
+    "APLE-00",
+    "APLJ-00"
+  ],
+  "codes": [
+    {
+      "title": "Infinite HP",
+      "code": "83003648+03E7"
+    },
+    {
+      "title": "Maximum HP",
+      "code": "830036AC+03E7"
+    },
+    {
+      "title": "Infinite SP",
+      "code": "8300364A+03E7"
+    },
+    {
+      "title": "Maximum SP",
+      "code": "830036AE+03E7"
+    },
+    {
+      "title": "Infinite attribute points",
+      "code": "33003657+00FF"
+    },
+    {
+      "title": "Infinite skill points",
+      "code": "33003658+00FF"
+    },
+    {
+      "title": "Quick Exp. gain",
+      "code": "33003646+00FF"
+    },
+    {
+      "title": "Hyper Mode",
+      "code": "330039A4+0000"
+    },
+    {
+      "title": "All artifacts",
+      "code": "3300470F+00FF"
+    },
+    {
+      "title": "50,000 Gems",
+      "code": "8300364C+C350"
+    }
+  ]
+}

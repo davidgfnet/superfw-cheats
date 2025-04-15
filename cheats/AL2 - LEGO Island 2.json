@@ -1,0 +1,173 @@
+{
+  "filename": "LEGO Island 2 - The Brickster's Revenge.gba",
+  "game-codes": [
+    "AL2P-00",
+    "AL2E-00"
+  ],
+  "codes": [
+    {
+      "title": "Have Max Card 1",
+      "code": "3200347A+00FF"
+    },
+    {
+      "title": "Have Max Card 2",
+      "code": "3200347B+00FF"
+    },
+    {
+      "title": "Have Max Card 3",
+      "code": "3200347C+00FF"
+    },
+    {
+      "title": "Have Max Card 4",
+      "code": "3200347D+00FF"
+    },
+    {
+      "title": "Have Max Card 5",
+      "code": "3200347E+00FF"
+    },
+    {
+      "title": "Have Max Card 6",
+      "code": "3200347F+00FF"
+    },
+    {
+      "title": "Have Max Card 7",
+      "code": "32003480+00FF"
+    },
+    {
+      "title": "Have Max Card 8",
+      "code": "32003481+00FF"
+    },
+    {
+      "title": "Have Max Card 9",
+      "code": "32003482+00FF"
+    },
+    {
+      "title": "Have Max Card 10",
+      "code": "32003483+00FF"
+    },
+    {
+      "title": "Have Max Card 11",
+      "code": "32003484+00FF"
+    },
+    {
+      "title": "Have Max Card 12",
+      "code": "32003485+00FF"
+    },
+    {
+      "title": "Have Max Card 13",
+      "code": "32003486+00FF"
+    },
+    {
+      "title": "Have Max Card 14",
+      "code": "32003487+00FF"
+    },
+    {
+      "title": "Have Max Card 15",
+      "code": "32003488+00FF"
+    },
+    {
+      "title": "Have Max Card 16",
+      "code": "32003489+00FF"
+    },
+    {
+      "title": "Have Max Card 17",
+      "code": "3200348A+00FF"
+    },
+    {
+      "title": "Have Max Card 18",
+      "code": "3200348B+00FF"
+    },
+    {
+      "title": "Have Max Card 19",
+      "code": "3200348C+00FF"
+    },
+    {
+      "title": "Have Max Card 20",
+      "code": "3200348D+00FF"
+    },
+    {
+      "title": "Have Max Card 21",
+      "code": "3200348E+00FF"
+    },
+    {
+      "title": "Have Max Card 22",
+      "code": "3200348F+00FF"
+    },
+    {
+      "title": "Have Max Card 23",
+      "code": "32003490+00FF"
+    },
+    {
+      "title": "Have Max Card 24",
+      "code": "32003491+00FF"
+    },
+    {
+      "title": "Have Max Card 25",
+      "code": "32003492+00FF"
+    },
+    {
+      "title": "Have Max Card 26",
+      "code": "32003493+00FF"
+    },
+    {
+      "title": "Have Max Card 27",
+      "code": "32003494+00FF"
+    },
+    {
+      "title": "Have Max Card 28",
+      "code": "32003495+00FF"
+    },
+    {
+      "title": "Have Max Card 29",
+      "code": "32003496+00FF"
+    },
+    {
+      "title": "Have Max Card 30",
+      "code": "32003497+00FF"
+    },
+    {
+      "title": "Have Max Card 31",
+      "code": "32003498+00FF"
+    },
+    {
+      "title": "Have Max Card 32",
+      "code": "32003499+00FF"
+    },
+    {
+      "title": "Have Max Card 33",
+      "code": "3200349A+00FF"
+    },
+    {
+      "title": "Have Max Card 34",
+      "code": "3200349B+00FF"
+    },
+    {
+      "title": "Have Max Card 35",
+      "code": "3200349C+00FF"
+    },
+    {
+      "title": "Have Max Card 36",
+      "code": "3200349D+00FF"
+    },
+    {
+      "title": "Have Max Card 37",
+      "code": "3200349E+00FF"
+    },
+    {
+      "title": "Have Max Card 38",
+      "code": "3200349F+00FF"
+    },
+    {
+      "title": "Have Max Card 39",
+      "code": "320034A0+00FF"
+    },
+    {
+      "title": "Have Max Card 40",
+      "code": "320034A1+00FF"
+    },
+    {
+      "title": "Have Max All Cards",
+      "code": "4200347A+FFFF 00000014+0002"
+    }
+  ]
+}

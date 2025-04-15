@@ -1,0 +1,30 @@
+{
+  "filename": "Hamtaro - Ham-Ham Heartbreak.gba",
+  "game-codes": [
+    "AH3E-00",
+    "AH3P-00",
+    "AH3J-00"
+  ],
+  "codes": [
+    {
+      "title": "Infinite sunflower seeds",
+      "code": "8201D0C2+03E7"
+    },
+    {
+      "title": "Infinite acorns",
+      "code": "8201D0C4+03E7"
+    },
+    {
+      "title": "Infinite rocks",
+      "code": "8201D0C6+03E7"
+    },
+    {
+      "title": "Have all items",
+      "code": "83002184+FFFF 83002186+FFFF 83002188+07FF"
+    },
+    {
+      "title": "Press Select during transitions to advance forward",
+      "code": "D0000020+0004 320039F0+0001"
+    }
+  ]
+}

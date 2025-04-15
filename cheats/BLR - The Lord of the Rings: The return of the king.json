@@ -1,0 +1,77 @@
+{
+  "filename": "The Lord of the Rings - The Return of the King.gba",
+  "game-codes": [
+    "BLRE-00",
+    "BLRJ-00"
+  ],
+  "codes": [
+    {
+      "title": "Max Exp",
+      "code": "83003D78+967F 83003D7A+0098"
+    },
+    {
+      "title": "Infinite HP",
+      "code": "83003D7C+270F"
+    },
+    {
+      "title": "Max HP",
+      "code": "83003CD0+270F"
+    },
+    {
+      "title": "Infinite Spirit points",
+      "code": "83003D7E+03E7"
+    },
+    {
+      "title": "Max Spirit points",
+      "code": "83003CD2+03E7"
+    },
+    {
+      "title": "Infinite jewels",
+      "code": "83003D84+FFFF"
+    },
+    {
+      "title": "Max enemies killed",
+      "code": "83003D86+FFFF"
+    },
+    {
+      "title": "Infinite Skill points",
+      "code": "33003D9E+0063"
+    },
+    {
+      "title": "Infinite Stats points",
+      "code": "33003D9D+0063"
+    },
+    {
+      "title": "Max Melee armor",
+      "code": "83003CBE+03E7"
+    },
+    {
+      "title": "Max Missle armor",
+      "code": "83003CC0+03E7"
+    },
+    {
+      "title": "Max Healing herbs",
+      "code": "33003DAA+0099"
+    },
+    {
+      "title": "Full Ent Water",
+      "code": "33003DA9+00FD"
+    },
+    {
+      "title": "Have Mithril Whetstone",
+      "code": "33003DA8+0007"
+    },
+    {
+      "title": "Have all Runes",
+      "code": "83003D8E+FFFF"
+    },
+    {
+      "title": "Have all Artifacts",
+      "code": "33005823+00FF"
+    },
+    {
+      "title": "Have all bonus maps",
+      "code": "3300581C+00FF 3300581F+00FF"
+    }
+  ]
+}
