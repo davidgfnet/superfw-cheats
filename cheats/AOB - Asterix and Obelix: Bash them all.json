@@ -1,0 +1,42 @@
+{
+  "filename": "Asterix and Obelix - Bash Them All!.gba",
+  "game-codes": [ "AOBP-00" ],
+  "codes": [
+    {
+      "title": "Asterix & Cleopatra infinite lifes",
+      "code": "8200B0D2+0005"
+    },
+    {
+      "title": "Asterix & Cleopatra infinite health",
+      "code": "8200B0BC+2800"
+    },
+    {
+      "title": "Asterix & Cleopatra always have club",
+      "code": "8200B0D6+0001"
+    },
+    {
+      "title": "Mini Games Codes start with 50",
+      "code": "7200B0C4+0000 8200B0C4+0032"
+    },
+    {
+      "title": "Asterix & Obelix Codes infinite lifes",
+      "code": "8300037A+0005"
+    },
+    {
+      "title": "Asterix & Obelix Codes infinite health",
+      "code": "8300033C+3000"
+    },
+    {
+      "title": "Asterix & Obelix Codes infinite time",
+      "code": "83001531+0600"
+    },
+    {
+      "title": "Asterix & Obelix Codes hold a for floater",
+      "code": "D0000020+0001 83000374+FC6E"
+    },
+    {
+      "title": "Asterix & Obelix Codes auto sprint (Olympics)",
+      "code": "83000100+0300"
+    }
+  ]
+}

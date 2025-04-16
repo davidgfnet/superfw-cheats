@@ -1,0 +1,125 @@
+{
+  "filename": "Sims, The - Bustin' Out.gba",
+  "game-codes": [
+    "ASIE-00",
+    "ASIE-01"
+  ],
+  "codes": [
+    {
+      "title": "Infinite money",
+      "code": "83003954+FFFF"
+    },
+    {
+      "title": "Max oney",
+      "code": "83003954+967F 83003946+0098"
+    },
+    {
+      "title": "Max popularity",
+      "code": "83003982+7FF8"
+    },
+    {
+      "title": "Hunger meter never goes down",
+      "code": "33003A03+0063"
+    },
+    {
+      "title": "Shower meter never goes down",
+      "code": "33003A07+0063"
+    },
+    {
+      "title": "Bed meter never goes down",
+      "code": "33003A0B+0063"
+    },
+    {
+      "title": "Relationship meter never goes down",
+      "code": "33003A0F+0063"
+    },
+    {
+      "title": "Rest meter never goes down",
+      "code": "33003A13+0063"
+    },
+    {
+      "title": "Bathroom meter never goes down",
+      "code": "33003A17+0063"
+    },
+    {
+      "title": "TV meter never goes down",
+      "code": "33003A1B+0063"
+    },
+    {
+      "title": "House meter never goes down",
+      "code": "33003A1F+0063"
+    },
+    {
+      "title": "Max aluminum cans",
+      "code": "33003A30+0063"
+    },
+    {
+      "title": "Max old glass jars",
+      "code": "33003A31+0063"
+    },
+    {
+      "title": "Max mechanical cogs",
+      "code": "33003A32+0063"
+    },
+    {
+      "title": "Max nuclear fuel rods",
+      "code": "33003A33+0063"
+    },
+    {
+      "title": "Max 3-Eared mice",
+      "code": "33003A34+0063"
+    },
+    {
+      "title": "Max Neat",
+      "code": "3300397A+000A"
+    },
+    {
+      "title": "Max Outgoing",
+      "code": "3300397B+000A"
+    },
+    {
+      "title": "Max Active",
+      "code": "3300397C+000A"
+    },
+    {
+      "title": "Max Playful",
+      "code": "3300397D+000A"
+    },
+    {
+      "title": "Max Nice",
+      "code": "3300397E+000A"
+    },
+    {
+      "title": "Max Cooking",
+      "code": "330039EB+000A"
+    },
+    {
+      "title": "Max Mechanical",
+      "code": "330039EF+000A"
+    },
+    {
+      "title": "Max Creativity",
+      "code": "330039F3+000A"
+    },
+    {
+      "title": "Max Body",
+      "code": "330039F7+000A"
+    },
+    {
+      "title": "Max Logic",
+      "code": "330039FB+000A"
+    },
+    {
+      "title": "Max Charisma",
+      "code": "330039FF+000A"
+    },
+    {
+      "title": "Max Affection",
+      "code": "43003988+6400 00000018+0004"
+    },
+    {
+      "title": "Press R to speed up time",
+      "code": "74000130+02FF E300395C+0010"
+    }
+  ]
+}

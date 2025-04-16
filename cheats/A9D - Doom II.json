@@ -1,0 +1,129 @@
+{
+  "filename": "Doom.gba",
+  "game-codes": [
+    "A9DE-00",
+    "A9DP-00"
+  ],
+  "codes": [
+    {
+      "title": "Infinite health",
+      "code": "830004B4+03E7"
+    },
+    {
+      "title": "Infinite armor",
+      "code": "330004B8+03E7"
+    },
+    {
+      "title": "Have shotgun",
+      "code": "33000504+0001"
+    },
+    {
+      "title": "Have protective armor on",
+      "code": "330004C9+0003"
+    },
+    {
+      "title": "Have blue key",
+      "code": "330004D0+0001"
+    },
+    {
+      "title": "Have yellow key",
+      "code": "330004D4+0001"
+    },
+    {
+      "title": "Have red keycard",
+      "code": "330004D8+0001"
+    },
+    {
+      "title": "Have rocket launcher",
+      "code": "3300050C+0001"
+    },
+    {
+      "title": "Have Plasma gun",
+      "code": "83000510+0001"
+    },
+    {
+      "title": "Have Machine gun",
+      "code": "83000514+0001"
+    },
+    {
+      "title": "Have BFG9000",
+      "code": "33000514+0001"
+    },
+    {
+      "title": "Have Chainsaw",
+      "code": "33000518+0001"
+    },
+    {
+      "title": "Infinite bullets",
+      "code": "8300051C+03E7"
+    },
+    {
+      "title": "Infinite shotgun shells",
+      "code": "83000520+03E7"
+    },
+    {
+      "title": "Infinite plasma cells",
+      "code": "83000524+03E7"
+    },
+    {
+      "title": "Infinite rockets",
+      "code": "83000528+03E7"
+    },
+    {
+      "title": "Max bullets",
+      "code": "8300052C+03E7"
+    },
+    {
+      "title": "Max shotgun shells",
+      "code": "83000530+03E7"
+    },
+    {
+      "title": "Max plasma cells",
+      "code": "83000534+03E7"
+    },
+    {
+      "title": "Max rockets",
+      "code": "83000538+03E7"
+    },
+    {
+      "title": "Beat up face icon",
+      "code": "33006CD4+0001"
+    },
+    {
+      "title": "Perfect face icon",
+      "code": "33006CD4+00FF"
+    },
+    {
+      "title": "Weapon always hands",
+      "code": "330004F4+0000"
+    },
+    {
+      "title": "Weapon always pistol",
+      "code": "330004F4+0001"
+    },
+    {
+      "title": "Weapon always shotgun",
+      "code": "330004F4+0002"
+    },
+    {
+      "title": "Weapon always chaingun",
+      "code": "330004F4+0003"
+    },
+    {
+      "title": "Weapon always rocket launcher",
+      "code": "330004F4+0004"
+    },
+    {
+      "title": "Weapon always plasma rifle",
+      "code": "330004F4+0005"
+    },
+    {
+      "title": "Weapon always BFG",
+      "code": "330004F4+0006"
+    },
+    {
+      "title": "Weapon always chainsaw",
+      "code": "330004F4+0007"
+    }
+  ]
+}
