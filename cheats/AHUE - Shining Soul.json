@@ -1,0 +1,97 @@
+
+{
+  "filename": "Shining Soul (USA).gba",
+  "game-codes": [
+    "AHUE-00"
+  ],
+  "codes": [
+    {
+      "title": "Unlimited HP",
+      "code": "830045FA+03E7"
+    },
+    {
+      "title": "Unlimited SP",
+      "code": "830045F8+03E7"
+    },
+    {
+      "title": "Unlimited Skill Points (Leveling up activates it)",
+      "code": "32018794+00FF"
+    },
+    {
+      "title": "100K Cash In Bank",
+      "code": "83003E08+0070"
+    },
+    {
+      "title": "999 Skill Points",
+      "code": "83003D50+03E7"
+    },
+    {
+      "title": "999 Status Points",
+      "code": "83003D4C+03E7"
+    },
+    {
+      "title": "Level Max",
+      "code": "33003D48+00F4"
+    },
+    {
+      "title": "Max Souls",
+      "code": "33003D96+0063"
+    },
+    {
+      "title": "Axe Mastered",
+      "code": "3201879C+0005"
+    },
+    {
+      "title": "Spear Mastered",
+      "code": "320187A0+0005"
+    },
+    {
+      "title": "Sword Mastered",
+      "code": "32018798+0005"
+    },
+    {
+      "title": "Defense Build-Up Mastered",
+      "code": "320187A4+0005"
+    },
+    {
+      "title": "Efficacy Mastered",
+      "code": "320187A8+0005"
+    },
+    {
+      "title": "Attack Max",
+      "code": "330045C8+00FF"
+    },
+    {
+      "title": "Defense Max",
+      "code": "330045CA+00FF"
+    },
+    {
+      "title": "Mental Power Mastered",
+      "code": "320187AC+0005"
+    },
+    {
+      "title": "Cold Resistance Mastered",
+      "code": "320187B0+0005"
+    },
+    {
+      "title": "Fire Resistance Mastered",
+      "code": "320187B8+0005"
+    },
+    {
+      "title": "Thunder Resistance Mastered",
+      "code": "320187B4+0005"
+    },
+    {
+      "title": "Cold Resistance Max",
+      "code": "330045B8+00FF"
+    },
+    {
+      "title": "All Skills Maxed",
+      "code": "43003D54+0005 00000000+0000"
+    },
+    {
+      "title": "Withdrawal Unlimited Gold (Money Bag must be first item in bank)",
+      "code": "830005EC+4240 830005EE+000F"
+    }
+  ]
+}
