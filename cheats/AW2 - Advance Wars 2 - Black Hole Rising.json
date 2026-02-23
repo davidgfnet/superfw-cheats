@@ -1,0 +1,65 @@
+{
+  "filename": "Advance Wars 2 - Black Hole Rising.gba",
+  "game-codes": [
+    "AW2E-00",
+    "AW2P-00"
+  ],
+  "codes": [
+    {
+      "title": "No fog of war",
+      "code": "33003FCD+0000"
+    },
+    {
+      "title": "Always Rank S",
+      "code": "330032F3+0005"
+    },
+    {
+      "title": "Max Stars",
+      "code": "830032E1+FFFF"
+    },
+    {
+      "title": "No Stars",
+      "code": "330032E1+0000"
+    },
+    {
+      "title": "Max Stars (opponent)",
+      "code": "8300331D+FFFF"
+    },
+    {
+      "title": "No Stars (opponent)",
+      "code": "3300331D+0000"
+    },
+    {
+      "title": "Unlock hard campaign",
+      "code": "33000030+0001"
+    },
+    {
+      "title": "Unlock sound room",
+      "code": "33000031+0001"
+    },
+    {
+      "title": "Have all teams",
+      "code": "8300005A+FFFF"
+    },
+    {
+      "title": "Have all color edits",
+      "code": "8300005C+FFFF 8300005E+FFFF"
+    },
+    {
+      "title": "Always day 1",
+      "code": "33004080+0001"
+    },
+    {
+      "title": "50,000 G (shop)",
+      "code": "83004420+C350"
+    },
+    {
+      "title": "50,000 G (in-battle)",
+      "code": "830032C0+C350"
+    },
+    {
+      "title": "Collect 1,000 per win",
+      "code": "830032F8+03E8"
+    }
+  ]
+}

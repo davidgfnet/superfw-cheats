@@ -1,0 +1,36 @@
+{
+  "filename": "Teenage Mutant Ninja Turtles.gba",
+  "game-codes": [
+    "BNTE-00"
+  ],
+  "codes": [
+    {
+      "title": "Invincible",
+      "code": "33005694+0003"
+    },
+    {
+      "title": "Maximum power bar",
+      "code": "830055AC+1F00 83007FAC+2000"
+    },
+    {
+      "title": "Infinite health",
+      "code": "330030ED+0048"
+    },
+    {
+      "title": "Have all crystals",
+      "code": "83001C7C+FFFF 33001C7E+00FF"
+    },
+    {
+      "title": "Unlock all stages",
+      "code": "83001C79+4927"
+    },
+    {
+      "title": "One-hit destroys sewer door",
+      "code": "8300504C+0001"
+    },
+    {
+      "title": "Max score",
+      "code": "8300312C+F000 8300312E+0016"
+    }
+  ]
+}

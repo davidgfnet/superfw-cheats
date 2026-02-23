@@ -1,0 +1,30 @@
+{
+  "filename": "Donkey Kong Country 2.gba",
+  "game-codes": [
+    "B2DE-00",
+    "B2DP-00",
+    "B2DJ-00"
+  ],
+  "codes": [
+    {
+      "title": "Max bananas",
+      "code": "330005F6+0063"
+    },
+    {
+      "title": "Always have partner",
+      "code": "330005F2+0001 330005F4+0000"
+    },
+    {
+      "title": "Infinite lives",
+      "code": "330005E4+0063"
+    },
+    {
+      "title": "Max banana boins",
+      "code": "3300065A+0063"
+    },
+    {
+      "title": "Infinite time (bonus stages)",
+      "code": "33002B56+0014"
+    }
+  ]
+}

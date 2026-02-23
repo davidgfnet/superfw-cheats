@@ -1,0 +1,30 @@
+{
+  "filename": "ChuChu Rocket!.gba",
+  "game-codes": [
+    "ACRE-00",
+    "ACRJ-00",
+    "ACRP-00"
+  ],
+  "codes": [
+    {
+      "title": "All normal puzzles complete",
+      "code": "83003FF0+FFFF 83003FF2+FFFF"
+    },
+    {
+      "title": "All original puzzles complete",
+      "code": "83004000+FFFF 83004002+FFFF"
+    },
+    {
+      "title": "All normal stage challenges complete",
+      "code": "830042A8+FFFF 830042AA+FFFF"
+    },
+    {
+      "title": "All original stage challenges complete",
+      "code": "830042AC+FFFF 830042AE+FFFF"
+    },
+    {
+      "title": "Infinite time (stage challenge)",
+      "code": "83002DB8+3B03"
+    }
+  ]
+}

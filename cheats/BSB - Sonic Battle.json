@@ -1,0 +1,18 @@
+{
+  "filename": "Sonic Battle.gba",
+  "game-codes": [
+    "BSBE-00",
+    "BSBJ-00",
+    "BSBP-00"
+  ],
+  "codes": [
+    {
+      "title": "Infinite HP",
+      "code": "33001CFF+0064"
+    },
+    {
+      "title": "Max Power Bar",
+      "code": "33001CD3+0048"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "filename": "The Incredibles.gba",
+  "game-codes": [
+    "BICE-00",
+    "BICX-00"
+  ],
+  "codes": [
+    {
+      "title": "Infinite Super Bar",
+      "code": "33005C31+0020"
+    },
+    {
+      "title": "Infinite double jumps",
+      "code": "33005517+0001"
+    },
+    {
+      "title": "Infinite health",
+      "code": "33005BE5+0020"
+    },
+    {
+      "title": "Infinite lives",
+      "code": "330055FB+0063"
+    },
+    {
+      "title": "Invincible",
+      "code": "330055B1+0099"
+    }
+  ]
+}

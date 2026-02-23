@@ -1,0 +1,20 @@
+{
+  "filename": "WarioWare, Inc. - Mega Microgame.gba",
+  "game-codes": [
+    "AZWE-00"
+  ],
+  "codes": [
+    {
+      "title": "Infinite Lives",
+      "code": "330039D5+0004"
+    },
+    {
+      "title": "Slow Timer",
+      "code": "83000EC4+00CC 830048A4+00CC"
+    },
+    {
+      "title": "Real Slow Timer",
+      "code": "83000EC4+0088 830048A4+0088"
+    }
+  ]
+}

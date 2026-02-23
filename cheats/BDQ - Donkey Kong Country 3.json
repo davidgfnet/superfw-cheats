@@ -1,0 +1,21 @@
+{
+  "filename": "Donkey Kong Country 3.gba",
+  "game-codes": [
+    "BDQE-00",
+    "BDQP-00"
+  ],
+  "codes": [
+    {
+      "title": "Infinite lives",
+      "code": "33000458+0063"
+    },
+    {
+      "title": "Max bananas",
+      "code": "830004AE+03E7"
+    },
+    {
+      "title": "Max silver coins",
+      "code": "330004E4+0063"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "filename": "Sonic Advance 3.gba",
+  "game-codes": [
+    "B3SE-00",
+    "B3SJ-00",
+    "B3SP-00"
+  ],
+  "codes": [
+    {
+      "title": "Infinite rings",
+      "code": "8300094C+03E7"
+    },
+    {
+      "title": "Always 10 rings",
+      "code": "8300094C+000A"
+    },
+    {
+      "title": "Infinite lives",
+      "code": "33000954+0009"
+    },
+    {
+      "title": "Enable all characters",
+      "code": "33000540+001F"
+    },
+    {
+      "title": "All levels open",
+      "code": "83000558+7F09"
+    },
+    {
+      "title": "Have all Chaos Emeralds",
+      "code": "83000562+FFFF"
+    },
+    {
+      "title": "Unlock Special-Stage mode",
+      "code": "83004120+000B"
+    },
+    {
+      "title": "Have all Chaos Emeralds",
+      "code": "83000562+047F"
+    },
+    {
+      "title": "Infinite/Low Time",
+      "code": "8300094E+0200"
+    },
+    {
+      "title": "Cream never gets tired when flying",
+      "code": "33001704+00D5"
+    }
+  ]
+}

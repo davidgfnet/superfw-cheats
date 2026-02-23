@@ -1,0 +1,24 @@
+{
+  "filename": "Sonic The Hedgehog - Genesis.gba",
+  "game-codes": [
+    "BIJE-00"
+  ],
+  "codes": [
+    {
+      "title": "Infinite lives",
+      "code": "330030EE+0003"
+    },
+    {
+      "title": "Max/Infinite rings",
+      "code": "830030EC+03E7"
+    },
+    {
+      "title": "Infinite time",
+      "code": "83002208+0000"
+    },
+    {
+      "title": "Max score",
+      "code": "830021F0+7F00 830021F2+9896"
+    }
+  ]
+}

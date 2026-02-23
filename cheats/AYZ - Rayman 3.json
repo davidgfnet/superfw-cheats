@@ -1,0 +1,29 @@
+{
+  "filename": "Rayman 3.gba",
+  "game-codes": [
+    "AYZE-00",
+    "AYZP-00"
+  ],
+  "codes": [
+    {
+      "title": "Infinite lives",
+      "code": "33007FF6+0063"
+    },
+    {
+      "title": "Infinite power",
+      "code": "83007F66+019A"
+    },
+    {
+      "title": "Have all abilities",
+      "code": "33007F61+00FF"
+    },
+    {
+      "title": "Have all levels open",
+      "code": "33007FF5+00FF 83007FF7+FFFF"
+    },
+    {
+      "title": "Mega jump",
+      "code": "33003D1D+0000"
+    }
+  ]
+}

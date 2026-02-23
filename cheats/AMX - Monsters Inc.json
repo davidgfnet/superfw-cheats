@@ -1,0 +1,24 @@
+{
+  "filename": "Monsters, Inc..gba",
+  "game-codes": [
+    "AMXE-00"
+  ],
+  "codes": [
+    {
+      "title": "Infinite lives",
+      "code": "33002754+0009"
+    },
+    {
+      "title": "Infinite laugh canisters",
+      "code": "33002850+0003"
+    },
+    {
+      "title": "Infinite candies",
+      "code": "3300286C+0063"
+    },
+    {
+      "title": "Infinite health",
+      "code": "33003983+0050"
+    }
+  ]
+}

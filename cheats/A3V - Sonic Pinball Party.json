@@ -1,0 +1,34 @@
+{
+  "filename": "Sonic Pinball Party.gba",
+  "game-codes": [
+    "A3VE-00",
+    "A3VP-00",
+    "A86J-00"
+  ],
+  "codes": [
+    {
+      "title": "Quick Score",
+      "code": "83002988+FFFF"
+    },
+    {
+      "title": "Max Score",
+      "code": "83002988+C9FF 8300298A+3B9A"
+    },
+    {
+      "title": "Infinite tries (Chao mini-game)",
+      "code": "330019B6+0000"
+    },
+    {
+      "title": "Infinite rings (Chao mini-game)",
+      "code": "83001970+6363"
+    },
+    {
+      "title": "Infinite rings (Chao garden)",
+      "code": "83006194+2710"
+    },
+    {
+      "title": "Ball Always Saved",
+      "code": "83005740+0017"
+    }
+  ]
+}

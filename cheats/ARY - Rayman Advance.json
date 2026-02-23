@@ -1,0 +1,41 @@
+{
+  "filename": "Rayman Advance.gba",
+  "game-codes": [
+    "ARYE-00",
+    "ARYP-00"
+  ],
+  "codes": [
+    {
+      "title": "Max blue orbs",
+      "code": "33006EA6+0063"
+    },
+    {
+      "title": "Infinite lives",
+      "code": "33006EA0+0063"
+    },
+    {
+      "title": "Infinite health",
+      "code": "33007CF4+0004"
+    },
+    {
+      "title": "Max health",
+      "code": "33006EA9+0005"
+    },
+    {
+      "title": "Invincible",
+      "code": "83007CD4+0064"
+    },
+    {
+      "title": "Have throwing fist",
+      "code": "33003EE4+0001"
+    },
+    {
+      "title": "Have golden fist",
+      "code": "33006E8C+0008"
+    },
+    {
+      "title": "Mega jump",
+      "code": "33007CC0+0003"
+    }
+  ]
+}

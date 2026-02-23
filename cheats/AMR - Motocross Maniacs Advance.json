@@ -1,0 +1,33 @@
+{
+  "filename": "Motocross Maniacs Advance.gba",
+  "game-codes": [
+    "AMRE-00",
+    "AMRJ-00"
+  ],
+  "codes": [
+    {
+      "title": "Infinite nitros",
+      "code": "33005D32+0063"
+    },
+    {
+      "title": "Infinite gas",
+      "code": "83005D3A+1600"
+    },
+    {
+      "title": "Infinite retries",
+      "code": "33005BCC+0009"
+    },
+    {
+      "title": "Have 200 cup points",
+      "code": "33005BB4+00C8"
+    },
+    {
+      "title": "Unlock all players",
+      "code": "33006D20+0003"
+    },
+    {
+      "title": "Unlock all cups",
+      "code": "83006D2E+FFFF"
+    }
+  ]
+}

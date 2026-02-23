@@ -1,0 +1,54 @@
+{
+  "filename": "Metal Slug Advance.gba",
+  "game-codes": [
+    "BSME-00",
+    "BSMJ-00",
+    "BSMP-00"
+  ],
+  "codes": [
+    {
+      "title": "Invincible",
+      "code": "32000028+00FF"
+    },
+    {
+      "title": "Infinite life",
+      "code": "32004948+0032"
+    },
+    {
+      "title": "All missions complete",
+      "code": "82004D68+0600"
+    },
+    {
+      "title": "Infinite bombs",
+      "code": "3200006F+0063"
+    },
+    {
+      "title": "Have fire bombs",
+      "code": "3200006E+0002"
+    },
+    {
+      "title": "Infinite ammo",
+      "code": "82000072+FFFF"
+    },
+    {
+      "title": "Have rifle instead of regular gun",
+      "code": "32000055+0001"
+    },
+    {
+      "title": "Infinite & rapid shots (all guns)",
+      "code": "3200006C+00FF"
+    },
+    {
+      "title": "No bomb shot limit",
+      "code": "3200006A+0000"
+    },
+    {
+      "title": "No extra shot limit",
+      "code": "3200006B+0000"
+    },
+    {
+      "title": "Infinite Slug Cannon",
+      "code": "32004756+0063"
+    }
+  ]
+}

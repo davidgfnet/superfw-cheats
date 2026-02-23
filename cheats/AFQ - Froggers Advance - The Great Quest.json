@@ -1,0 +1,37 @@
+{
+  "filename": "Frogger Advance - The Great Quest.gba",
+  "game-codes": [
+    "AFQE-00",
+    "AFQP-00"
+  ],
+  "codes": [
+    {
+      "title": "Infinite lives",
+      "code": "33000028+0063"
+    },
+    {
+      "title": "Infinite health",
+      "code": "33000048+0064"
+    },
+    {
+      "title": "Max coins (total)",
+      "code": "8300005C+03E7"
+    },
+    {
+      "title": "Max gems (total)",
+      "code": "83000060+03E7"
+    },
+    {
+      "title": "Max tokens",
+      "code": "83000064+03E7"
+    },
+    {
+      "title": "Invincible/Infinite time (Race to be kind mode)",
+      "code": "330002A8+0000"
+    },
+    {
+      "title": "Have all specials",
+      "code": "83000044+000F"
+    }
+  ]
+}

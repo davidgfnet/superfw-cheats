@@ -1,0 +1,28 @@
+{
+  "filename": "Disney Princess.gba",
+  "game-codes": [
+    "AQPE-00"
+  ],
+  "codes": [
+    {
+      "title": "Infinite Health",
+      "code": "3300189A+0005"
+    },
+    {
+      "title": "Infinite Ammo",
+      "code": "33001892+0005"
+    },
+    {
+      "title": "999 Coins",
+      "code": "83001856+03E7"
+    },
+    {
+      "title": "Have gems",
+      "code": "33001880+0003 33001888+0007"
+    },
+    {
+      "title": "Have all chapters",
+      "code": "83001874+FFFF 33001876+00FF"
+    }
+  ]
+}
