@@ -1,0 +1,37 @@
+{
+  "filename": "Daredevil.gba",
+  "game-codes": [
+    "AVLD-00",
+    "AVLE-00"
+  ],
+  "codes": [
+    {
+      "title": "Invincible",
+      "code": "32009368+0002"
+    },
+    {
+      "title": "Infinite health",
+      "code": "32009364+002C"
+    },
+    {
+      "title": "Infinite sense",
+      "code": "3300640E+0084"
+    },
+    {
+      "title": "Infinite lives",
+      "code": "33005296+0009"
+    },
+    {
+      "title": "Multi jump",
+      "code": "72009362+002D 32009362+0021"
+    },
+    {
+      "title": "Have billy club",
+      "code": "33005294+0001 33006492+0010"
+    },
+    {
+      "title": "Have double strength",
+      "code": "33006496+0010"
+    }
+  ]
+}

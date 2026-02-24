@@ -1,0 +1,29 @@
+{
+  "filename": "F1 2002.gba",
+  "game-codes": [
+    "AF8E-00",
+    "AF8X-00"
+  ],
+  "codes": [
+    {
+      "title": "Low times",
+      "code": "830002F8+0000 830002FA+0000"
+    },
+    {
+      "title": "Max points (pilots ranking)",
+      "code": "33001D19+00FF"
+    },
+    {
+      "title": "Infinite fuel",
+      "code": "330003AA+0078"
+    },
+    {
+      "title": "Always good tires",
+      "code": "830003AC+FFFF 830003AE+02FF"
+    },
+    {
+      "title": "No damage",
+      "code": "830003B0+FFFF 330003B2+0002"
+    }
+  ]
+}

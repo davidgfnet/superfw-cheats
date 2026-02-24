@@ -1,0 +1,17 @@
+{
+  "filename": "CT Special Forces.gba",
+  "game-codes": [
+    "AC7E-00",
+    "AC7P-00"
+  ],
+  "codes": [
+    {
+      "title": "Infinite HP",
+      "code": "330000E4+0064"
+    },
+    {
+      "title": "Infinite lives",
+      "code": "330000E0+0004"
+    }
+  ]
+}

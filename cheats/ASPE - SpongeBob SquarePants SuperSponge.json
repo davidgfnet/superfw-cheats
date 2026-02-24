@@ -1,0 +1,28 @@
+{
+  "filename": "SpongeBob SquarePants - SuperSponge (USA, Europe).gba",
+  "game-codes": [
+    "ASPE-00"
+  ],
+  "codes": [
+    {
+      "title": "Infinite spatulas",
+      "code": "33000F32+0063"
+    },
+    {
+      "title": "Infinite lives",
+      "code": "33000F33+0063"
+    },
+    {
+      "title": "Infinite health",
+      "code": "330012FA+0000"
+    },
+    {
+      "title": "Invincible",
+      "code": "330012FB+00C0"
+    },
+    {
+      "title": "Infinite jellyfish",
+      "code": "330012F5+0063"
+    }
+  ]
+}

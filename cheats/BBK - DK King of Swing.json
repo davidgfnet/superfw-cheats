@@ -1,0 +1,17 @@
+{
+  "filename": "DK - King of Swing.gba",
+  "game-codes": [
+    "BBKE-00",
+    "BBKP-00"
+  ],
+  "codes": [
+    {
+      "title": "Infinite health",
+      "code": "3300002C+0003"
+    },
+    {
+      "title": "Infinite/max bananas",
+      "code": "83000030+012C"
+    }
+  ]
+}

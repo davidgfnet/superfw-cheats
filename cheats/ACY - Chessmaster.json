@@ -1,0 +1,27 @@
+{
+  "filename": "Chessmaster.gba",
+  "game-codes": [
+    "ACYD-00",
+    "ACYE-00",
+    "ACYF-00",
+    "ACYP-00"
+  ],
+  "codes": [
+    {
+      "title": "Time always 0:00 (white)",
+      "code": "33002278+0000"
+    },
+    {
+      "title": "Quick time gain (white)",
+      "code": "33002278+00FF"
+    },
+    {
+      "title": "Time always 0:00 (black)",
+      "code": "33001960+0000"
+    },
+    {
+      "title": "Quick time gain (black)",
+      "code": "33001960+00FF"
+    }
+  ]
+}

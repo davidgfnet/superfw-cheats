@@ -1,0 +1,60 @@
+{
+  "filename": "Ready 2 Rumble Boxing - Round 2.gba",
+  "game-codes": [
+    "AR2E-00"
+  ],
+  "codes": [
+    {
+      "title": "Infinite time",
+      "code": "8200D638+0059"
+    },
+    {
+      "title": "Infinite health (P1)",
+      "code": "82008BBC+4400"
+    },
+    {
+      "title": "No health (P1)",
+      "code": "82008BBC+0000"
+    },
+    {
+      "title": "Max stamina (P1)",
+      "code": "82008BBE+4400"
+    },
+    {
+      "title": "No stamina (P1)",
+      "code": "82008BBE+0000"
+    },
+    {
+      "title": "Max Rumble meter (P1)",
+      "code": "8200D5BC+0006"
+    },
+    {
+      "title": "No Rumble meter (P1)",
+      "code": "8200D5BC+0000"
+    },
+    {
+      "title": "No stamina (P2/CPU)",
+      "code": "8200B10E+0000"
+    },
+    {
+      "title": "Max Rumble meter (P2/CPU)",
+      "code": "8200D5F8+0006"
+    },
+    {
+      "title": "No Rumble meter (P2/CPU)",
+      "code": "8200D5F8+0000"
+    },
+    {
+      "title": "Infinite health (P2/CPU)",
+      "code": "8200B10C+4400"
+    },
+    {
+      "title": "No health (P2/CPU)",
+      "code": "8200B10C+0000"
+    },
+    {
+      "title": "Max stamina (P2/CPU)",
+      "code": "8200B10E+4400"
+    }
+  ]
+}

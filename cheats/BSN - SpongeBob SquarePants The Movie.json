@@ -1,0 +1,29 @@
+{
+  "filename": "SpongeBob SquarePants Movie, The.gba",
+  "game-codes": [
+    "BSNE-00",
+    "BSNX-00"
+  ],
+  "codes": [
+    {
+      "title": "Invincibility",
+      "code": "830071C8+03E8"
+    },
+    {
+      "title": "Infinite time",
+      "code": "8300704C+0258"
+    },
+    {
+      "title": "Infinite tin cans",
+      "code": "33006FC8+0009"
+    },
+    {
+      "title": "999 shells",
+      "code": "830070AC+03E7"
+    },
+    {
+      "title": "Infinite lives",
+      "code": "33001444+00FF"
+    }
+  ]
+}

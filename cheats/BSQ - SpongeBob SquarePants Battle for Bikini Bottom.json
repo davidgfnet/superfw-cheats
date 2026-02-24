@@ -1,0 +1,29 @@
+{
+  "filename": "SpongeBob SquarePants - Battle for Bikini Bottom.gba",
+  "game-codes": [
+    "BSQE-00",
+    "BSQP-00"
+  ],
+  "codes": [
+    {
+      "title": "Have all hamburgers found",
+      "code": "32003C10+0014"
+    },
+    {
+      "title": "Have all spatulas found",
+      "code": "32003C18+0003"
+    },
+    {
+      "title": "Infinite health",
+      "code": "32003C0C+0003"
+    },
+    {
+      "title": "Infinite lives",
+      "code": "32003C08+0063"
+    },
+    {
+      "title": "Have all photos (in album)",
+      "code": "82003BFC+FFFF"
+    }
+  ]
+}

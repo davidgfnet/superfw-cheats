@@ -1,0 +1,24 @@
+{
+  "filename": "Simpsons, The - Road Rage.gba",
+  "game-codes": [
+    "A4AE-00"
+  ],
+  "codes": [
+    {
+      "title": "Unlock all vehicles",
+      "code": "83001C90+FFFF"
+    },
+    {
+      "title": "Unlock all locations",
+      "code": "33001CEC+00FF"
+    },
+    {
+      "title": "Unlock all missions",
+      "code": "33001CED+000A"
+    },
+    {
+      "title": "Unlock all extras",
+      "code": "33001CF0+000F"
+    }
+  ]
+}

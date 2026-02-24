@@ -1,0 +1,29 @@
+{
+  "filename": "Contra Advance - The Alien Wars EX.gba",
+  "game-codes": [
+    "AAWE-00",
+    "AAWP-00"
+  ],
+  "codes": [
+    {
+      "title": "Infinite lives (player 1)",
+      "code": "33002C60+0063"
+    },
+    {
+      "title": "Invincibility",
+      "code": "33002CA0+0063"
+    },
+    {
+      "title": "Quick score gain (player 1)",
+      "code": "83002C64+FFFF"
+    },
+    {
+      "title": "Max score (player 1)",
+      "code": "83002C64+E0FF 83002C66+05F5"
+    },
+    {
+      "title": "Infinite continues",
+      "code": "33001A84+0063"
+    }
+  ]
+}

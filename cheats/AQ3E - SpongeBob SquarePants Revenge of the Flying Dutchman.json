@@ -1,0 +1,32 @@
+{
+  "filename": "SpongeBob SquarePants - Revenge of the Flying Dutchman (USA, Europe).gba",
+  "game-codes": [
+    "AQ3E-00"
+  ],
+  "codes": [
+    {
+      "title": "Max coins",
+      "code": "83001A08+00FF"
+    },
+    {
+      "title": "Infinite health",
+      "code": "33001A0C+0005"
+    },
+    {
+      "title": "Infinite lives",
+      "code": "33001A10+0063"
+    },
+    {
+      "title": "Have float bubbles",
+      "code": "33001A1C+0001"
+    },
+    {
+      "title": "Have strong bubbles",
+      "code": "33001A1C+0002"
+    },
+    {
+      "title": "Have bounce bubbles",
+      "code": "33001A1C+0003"
+    }
+  ]
+}

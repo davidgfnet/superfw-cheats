@@ -1,0 +1,30 @@
+{
+  "filename": "Spider-Man.gba",
+  "game-codes": [
+    "AKXD-00",
+    "AKXE-00",
+    "AKXF-00"
+  ],
+  "codes": [
+    {
+      "title": "Quick score gain",
+      "code": "82025F98+FFFF"
+    },
+    {
+      "title": "Max score",
+      "code": "82025F98+967F+82025F9A+0098"
+    },
+    {
+      "title": "Infinite health",
+      "code": "82026098+FFFF"
+    },
+    {
+      "title": "Infinite lives",
+      "code": "8202A588+0063"
+    },
+    {
+      "title": "Infinite webbing",
+      "code": "82027A40+0063"
+    }
+  ]
+}

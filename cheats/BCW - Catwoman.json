@@ -1,0 +1,36 @@
+{
+  "filename": "Catwoman (USA, Europe) (En,Fr,De,Es,It,Nl).gba",
+  "game-codes": [
+    "BCWE-00"
+  ],
+  "codes": [
+    {
+      "title": "Infinite health",
+      "code": "33000B75+00FF"
+    },
+    {
+      "title": "Infinite time",
+      "code": "8300052E+1918"
+    },
+    {
+      "title": "255 blue gems collected",
+      "code": "33000A56+00FF"
+    },
+    {
+      "title": "255 yellow gems collected",
+      "code": "33000A55+00FF"
+    },
+    {
+      "title": "255 green gems collected",
+      "code": "33000A54+00FF"
+    },
+    {
+      "title": "Full special meter",
+      "code": "83000B7D+FFFF 33000B7F+00FF"
+    },
+    {
+      "title": "Have all moves learned",
+      "code": "83000A2A+FFFF 83000A2C+FFFF"
+    }
+  ]
+}
