@@ -1,0 +1,38 @@
+{
+  "filename": "Kim Possible 2 - Drakken's Demise.gba",
+  "game-codes": [
+    "BKME-00",
+    "BKMP-00"
+  ],
+  "codes": [
+    {
+      "title": "150 collectibles",
+      "code": "32011442+0096"
+    },
+    {
+      "title": "25 enemies defeated",
+      "code": "32011443+0019"
+    },
+    {
+      "title": "Max score",
+      "code": "82011410+03E7"
+    },
+    {
+      "title": "Infinite health",
+      "code": "3201144B+0005"
+    },
+    {
+      "title": "Infinite lives",
+      "code": "32011444+0009"
+    },
+    {
+      "title": "Infinite time (when you're Rufus)",
+      "code": "32011418+003C"
+    },
+    {
+      "title": "Have all cards",
+      "code": "4201144E+FFFF+00000003+0002"
+    }
+  ]
+}
+

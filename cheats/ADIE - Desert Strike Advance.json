@@ -1,0 +1,20 @@
+{
+  "filename": "Desert Strike Advance (USA).gba",
+  "game-codes": [
+    "ADIE-00"
+  ],
+  "codes": [
+    {
+      "title": "Infinite lives",
+      "code": "820020A0+270F"
+    },
+    {
+      "title": "Infinite fuel",
+      "code": "82002098+270F"
+    },
+    {
+      "title": "Infinite armor",
+      "code": "82005DCC+270F 82005E6E+270F 82005F10+270F"
+    }
+  ]
+}

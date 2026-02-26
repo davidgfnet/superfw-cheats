@@ -1,0 +1,20 @@
+{
+  "filename": "Hot Wheels - Burnin' Rubber.gba",
+  "game-codes": [
+    "AHWE-00"
+  ],
+  "codes": [
+    {
+      "title": "Infinite lives",
+      "code": "8300234E+0004 83002350+0004"
+    },
+    {
+      "title": "Max money earned",
+      "code": "83004770+00FF"
+    },
+    {
+      "title": "Always low time",
+      "code": "830056CC+0000"
+    }
+  ]
+}

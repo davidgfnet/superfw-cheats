@@ -1,0 +1,33 @@
+{
+  "filename": "Digimon - Battle Spirit 2.gba",
+  "game-codes": [
+    "BDSE-00",
+    "BDSP-00"
+  ],
+  "codes": [
+    {
+      "title": "Max blue spheres",
+      "code": "82031AC2+03E7"
+    },
+    {
+      "title": "Max diamonds",
+      "code": "32031AC5+0005"
+    },
+    {
+      "title": "Max digivolution meter",
+      "code": "82031AC8+2000"
+    },
+    {
+      "title": "Invincible",
+      "code": "82031A68+8003"
+    },
+    {
+      "title": "Extra fighters",
+      "code": "83000D68+0F00"
+    },
+    {
+      "title": "Always attack/strongest shot for Digi Shoot mini game",
+      "code": "83001CB2+5000"
+    }
+  ]
+}

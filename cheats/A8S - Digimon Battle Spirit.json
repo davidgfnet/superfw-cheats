@@ -1,0 +1,29 @@
+{
+  "filename": "Digimon - Battle Spirit.gba",
+  "game-codes": [
+    "A8SE-00",
+    "A8SP-00"
+  ],
+  "codes": [
+    {
+      "title": "250 points",
+      "code": "32011776+00FA"
+    },
+    {
+      "title": "Stop timer",
+      "code": "83004500+1C4A"
+    },
+    {
+      "title": "Infinite health",
+      "code": "32011774+0008"
+    },
+    {
+      "title": "Infinite power",
+      "code": "8201177A+0600"
+    },
+    {
+      "title": "Unlock all characters",
+      "code": "33002329+00FF"
+    }
+  ]
+}

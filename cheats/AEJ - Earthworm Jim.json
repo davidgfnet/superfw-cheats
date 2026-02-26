@@ -1,0 +1,36 @@
+{
+  "filename": "Earthworm Jim.gba",
+  "game-codes": [
+    "AEJE-00"
+  ],
+  "codes": [
+    {
+      "title": "Infinite ammo (normal gun)",
+      "code": "830018BC+270F"
+    },
+    {
+      "title": "Infinite lives",
+      "code": "83002B0C+0119"
+    },
+    {
+      "title": "Infinite health",
+      "code": "83000010+0064"
+    },
+    {
+      "title": "Infinite ammo (blaster)",
+      "code": "830018F4+0064"
+    },
+    {
+      "title": "Infinite oxygen",
+      "code": "83006630+0063"
+    },
+    {
+      "title": "Strong snot cord",
+      "code": "83003F10+0012"
+    },
+    {
+      "title": "Infinite turbo (Andy Asteroid)",
+      "code": "8300335C+0001"
+    }
+  ]
+}

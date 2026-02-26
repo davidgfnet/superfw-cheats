@@ -1,0 +1,29 @@
+{
+  "filename": "Midnight Club - Street Racing.gba",
+  "game-codes": [
+    "AMQE-00",
+    "AMQP-00"
+  ],
+  "codes": [
+    {
+      "title": "No damage",
+      "code": "83004FEA+0000"
+    },
+    {
+      "title": "Low time",
+      "code": "83004780+0000"
+    },
+    {
+      "title": "Infinite boosts",
+      "code": "33004FEE+0004"
+    },
+    {
+      "title": "No traffic",
+      "code": "33005C58+0000"
+    },
+    {
+      "title": "Unlock London",
+      "code": "33001FA9+0001"
+    }
+  ]
+}

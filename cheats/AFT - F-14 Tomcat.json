@@ -1,0 +1,44 @@
+{
+  "filename": "F-14 Tomcat (USA, Europe).gba",
+  "game-codes": [
+    "AFTE-00"
+  ],
+  "codes": [
+    {
+      "title": "Guns never overheat",
+      "code": "330030F8+0000"
+    },
+    {
+      "title": "Infinite fuel",
+      "code": "830030F2+270F"
+    },
+    {
+      "title": "Infinite lives",
+      "code": "33004548+0009"
+    },
+    {
+      "title": "Infinite M-61",
+      "code": "83003148+03E7"
+    },
+    {
+      "title": "Take no damage",
+      "code": "330031F9+0000"
+    },
+    {
+      "title": "All planes destroyed",
+      "code": "33003464+0000"
+    },
+    {
+      "title": "Infinite aim 9",
+      "code": "8300314A+03E7"
+    },
+    {
+      "title": "Infinite aim 7",
+      "code": "8300314C+03E7"
+    },
+    {
+      "title": "Infinite aim 54",
+      "code": "8300314E+03E7"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "filename": "Dual Blades.gba",
+  "game-codes": [
+    "AB9E-00",
+    "AB9J-00"
+  ],
+  "codes": [
+    {
+      "title": "Infinite time",
+      "code": "830029BA+0063"
+    },
+    {
+      "title": "Infinite health (P1)",
+      "code": "830029A8+6FFF"
+    },
+    {
+      "title": "No health (P1)",
+      "code": "830029A8+0000"
+    },
+    {
+      "title": "Infinite pow (P1)",
+      "code": "830029BE+6FFF"
+    },
+    {
+      "title": "No pow (P1)",
+      "code": "830029BE+0000"
+    },
+    {
+      "title": "Infinite health (P2)",
+      "code": "830034D4+6FFF"
+    },
+    {
+      "title": "No health (P2)",
+      "code": "830034D4+0000"
+    },
+    {
+      "title": "Infinite pow (P2)",
+      "code": "830034EA+6FFF"
+    },
+    {
+      "title": "No pow (P2)",
+      "code": "830034EA+0000"
+    }
+  ]
+}

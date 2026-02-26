@@ -1,0 +1,24 @@
+{
+  "filename": "Iridion 3D (USA, Europe).gba",
+  "game-codes": [
+    "AI3E-00"
+  ],
+  "codes": [
+    {
+      "title": "Infinite lives",
+      "code": "33000102+0004"
+    },
+    {
+      "title": "Infinite health",
+      "code": "33000103+000C"
+    },
+    {
+      "title": "Max score",
+      "code": "83000114+967F 83000116+0098"
+    },
+    {
+      "title": "Rapid fire",
+      "code": "33000120+0000"
+    }
+  ]
+}

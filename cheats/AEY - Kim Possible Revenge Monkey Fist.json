@@ -1,0 +1,32 @@
+{
+  "filename": "Kim Possible - Revenge of Monkey Fist (USA).gba",
+  "game-codes": [
+    "AEYE-00"
+  ],
+  "codes": [
+    {
+      "title": "Infinite health",
+      "code": "32000410+0005"
+    },
+    {
+      "title": "Infinite lives",
+      "code": "32000B08+0009"
+    },
+    {
+      "title": "Invincible",
+      "code": "82000428+FFFF+8200042A+FFFF"
+    },
+    {
+      "title": "Unlock all pictures",
+      "code": "32000B0C+00FF"
+    },
+    {
+      "title": "Unlock all movies",
+      "code": "32000B00+00FF"
+    },
+    {
+      "title": "Infinite item",
+      "code": "32014181+0001"
+    }
+  ]
+}

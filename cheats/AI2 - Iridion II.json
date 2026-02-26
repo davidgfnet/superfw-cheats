@@ -1,0 +1,29 @@
+{
+  "filename": "Iridion II.gba",
+  "game-codes": [
+    "AI2E-00",
+    "AI2P-00"
+  ],
+  "codes": [
+    {
+      "title": "Infinite lives",
+      "code": "33000A01+0009"
+    },
+    {
+      "title": "Infinite health",
+      "code": "330041A0+00FF"
+    },
+    {
+      "title": "Infinite smart bombs",
+      "code": "33000A0E+0003"
+    },
+    {
+      "title": "Weapon charged",
+      "code": "33001427+0020"
+    },
+    {
+      "title": "Upgrades have all",
+      "code": "43000A03+0202 00000003+0000"
+    }
+  ]
+}
