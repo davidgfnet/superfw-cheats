@@ -13,6 +13,10 @@
       "code": "8300052E+1918"
     },
     {
+      "title": "Mega jump",
+      "code": "D0000020+0001 83000B2A+0320"
+    },
+    {
       "title": "255 blue gems collected",
       "code": "33000A56+00FF"
     },
@@ -26,7 +30,7 @@
     },
     {
       "title": "Full special meter",
-      "code": "83000B7D+FFFF 33000B7F+00FF"
+      "code": "33000B7D+00FF 83000B7E+FFFF"
     },
     {
       "title": "Have all moves learned",

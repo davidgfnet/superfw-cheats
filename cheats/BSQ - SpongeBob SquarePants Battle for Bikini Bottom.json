@@ -22,8 +22,16 @@
       "code": "32003C08+0063"
     },
     {
-      "title": "Have all photos (in album)",
+      "title": "Press L to have keys",
+      "code": "74000130+01FF 32003C35+0001 74000130+01FF 32003C36+0001"
+    },
+    {
+      "title": "Have all photos in album",
       "code": "82003BFC+FFFF"
+    },
+    {
+      "title": "Infinite water timer",
+      "code": "72003C30+0001 82003C30+003C"
     }
   ]
 }

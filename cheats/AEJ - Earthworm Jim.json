@@ -29,6 +29,10 @@
       "code": "83003F10+0012"
     },
     {
+      "title": "Weak snot cord (opponent)",
+      "code": "73003F20+0012 83003F20+0002"
+    },
+    {
       "title": "Infinite turbo (Andy Asteroid)",
       "code": "8300335C+0001"
     }

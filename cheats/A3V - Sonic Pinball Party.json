@@ -7,11 +7,11 @@
   ],
   "codes": [
     {
-      "title": "Quick Score",
+      "title": "Quick score",
       "code": "83002988+FFFF"
     },
     {
-      "title": "Max Score",
+      "title": "Max score",
       "code": "83002988+C9FF 8300298A+3B9A"
     },
     {
@@ -27,8 +27,16 @@
       "code": "83006194+2710"
     },
     {
-      "title": "Ball Always Saved",
-      "code": "83005740+0017"
+      "title": "Max levels Chao",
+      "code": "43001568+0063 00000005+0008"
+    },
+    {
+      "title": "Ball always saved",
+      "code": "82035740+0017"
+    },
+    {
+      "title": "Press select to reset time in timed events",
+      "code": "74000130+03FB 82034F8C+00C8"
     }
   ]
 }

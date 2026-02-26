@@ -6,92 +6,53 @@
   ],
   "codes": [
     {
-      "title": "Unlimited HP",
-      "code": "830045FA+03E7"
+      "title": "Infinite HP",
+      "code": "83003ED0+2760"
     },
     {
-      "title": "Unlimited SP",
-      "code": "830045F8+03E7"
+      "title": "Infinite SP",
+      "code": "83003ECE+2760"
     },
     {
-      "title": "Unlimited Skill Points (Leveling up activates it)",
-      "code": "32018794+00FF"
+      "title": "Infinite status points",
+      "code": "82003C36+03E7"
     },
     {
-      "title": "100K Cash In Bank",
-      "code": "83003E08+0070"
+      "title": "Infinite skill points",
+      "code": "32003C4C+00FF"
     },
     {
-      "title": "999 Skill Points",
-      "code": "83003D50+03E7"
+      "title": "Walk thru walls",
+      "code": "74000130+03BF E3003E9C+FF40 74000130+037F E3003EA4+00B0 74000130+03DF E3003E98+FF40 74000130+03EF E3003EA0+00B0"
     },
     {
-      "title": "999 Status Points",
-      "code": "83003D4C+03E7"
+      "title": "Enemies give 65,535 EXP when killed",
+      "code": "82030BA4+FFFF 830046A4+FFFF 83004AA4+FFFF 83004EA4+FFFF 830052A4+FFFF 830056A4+FFFF"
     },
     {
-      "title": "Level Max",
-      "code": "33003D48+00F4"
+      "title": "All skills mastered",
+      "code": "42003C50+0007 00000008+0004"
     },
     {
-      "title": "Max Souls",
-      "code": "33003D96+0063"
+      "title": "Max STR",
+      "code": "82003C2C+03E7"
     },
     {
-      "title": "Axe Mastered",
-      "code": "3201879C+0005"
+      "title": "Max DEX",
+      "code": "82003C2E+03E7"
     },
     {
-      "title": "Spear Mastered",
-      "code": "320187A0+0005"
+      "title": "Max INT",
+      "code": "82003C30+03E7"
     },
     {
-      "title": "Sword Mastered",
-      "code": "32018798+0005"
+      "title": "Max VIT",
+      "code": "82003C32+03E7"
     },
     {
-      "title": "Defense Build-Up Mastered",
-      "code": "320187A4+0005"
-    },
-    {
-      "title": "Efficacy Mastered",
-      "code": "320187A8+0005"
-    },
-    {
-      "title": "Attack Max",
-      "code": "330045C8+00FF"
-    },
-    {
-      "title": "Defense Max",
-      "code": "330045CA+00FF"
-    },
-    {
-      "title": "Mental Power Mastered",
-      "code": "320187AC+0005"
-    },
-    {
-      "title": "Cold Resistance Mastered",
-      "code": "320187B0+0005"
-    },
-    {
-      "title": "Fire Resistance Mastered",
-      "code": "320187B8+0005"
-    },
-    {
-      "title": "Thunder Resistance Mastered",
-      "code": "320187B4+0005"
-    },
-    {
-      "title": "Cold Resistance Max",
-      "code": "330045B8+00FF"
-    },
-    {
-      "title": "All Skills Maxed",
-      "code": "43003D54+0005 00000000+0000"
-    },
-    {
-      "title": "Withdrawal Unlimited Gold (Money Bag must be first item in bank)",
-      "code": "830005EC+4240 830005EE+000F"
+      "title": "All stats maxed",
+      "code": "42003C2C+03E7 00000004+0002"
     }
   ]
 }
+

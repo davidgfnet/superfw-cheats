@@ -15,7 +15,7 @@
     },
     {
       "title": "Infinite sense",
-      "code": "3300640E+0084"
+      "code": "3300640E+0384"
     },
     {
       "title": "Infinite lives",
@@ -32,6 +32,10 @@
     {
       "title": "Have double strength",
       "code": "33006496+0010"
+    },
+    {
+      "title": "Unlock All Secrets",
+      "code": "43006580+0101 00000014+0002"
     }
   ]
 }

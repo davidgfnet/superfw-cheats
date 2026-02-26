@@ -7,31 +7,35 @@
   "codes": [
     {
       "title": "Infinite lives",
-      "code": "33000028+0063"
+      "code": "32000028+0063"
     },
     {
       "title": "Infinite health",
-      "code": "33000048+0064"
+      "code": "32000048+0064"
     },
     {
       "title": "Max coins (total)",
-      "code": "8300005C+03E7"
+      "code": "8200005C+03E7"
     },
     {
       "title": "Max gems (total)",
-      "code": "83000060+03E7"
+      "code": "82000060+03E7"
     },
     {
       "title": "Max tokens",
-      "code": "83000064+03E7"
+      "code": "82000064+03E7"
     },
     {
-      "title": "Invincible/Infinite time (Race to be kind mode)",
+      "title": "Invincible / infinite time (Race To Be King mode)",
       "code": "330002A8+0000"
     },
     {
       "title": "Have all specials",
-      "code": "83000044+000F"
+      "code": "82000044+000F"
+    },
+    {
+      "title": "Press R button for moon jump",
+      "code": "D0000020+0100 8201208C+FD00 D0000020+0100 8201208E+FFFF"
     }
   ]
 }

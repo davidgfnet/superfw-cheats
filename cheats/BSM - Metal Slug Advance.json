@@ -8,7 +8,7 @@
   "codes": [
     {
       "title": "Invincible",
-      "code": "32000028+00FF"
+      "code": "32000028+0001"
     },
     {
       "title": "Infinite life",
@@ -31,6 +31,10 @@
       "code": "82000072+FFFF"
     },
     {
+      "title": "Moon jump",
+      "code": "D0000020+0001 82004928+BA00 D0000020+0001 8200492A+0003"
+    },
+    {
       "title": "Have rifle instead of regular gun",
       "code": "32000055+0001"
     },
@@ -47,8 +51,12 @@
       "code": "3200006B+0000"
     },
     {
+      "title": "All missions complete",
+      "code": "8200CD68+0600"
+    },
+    {
       "title": "Infinite Slug Cannon",
-      "code": "32004756+0063"
+      "code": "33004756+0063"
     }
   ]
 }

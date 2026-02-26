@@ -6,6 +6,10 @@
   ],
   "codes": [
     {
+      "title": "Invincible",
+      "code": "73004186+0300 330041C9+0000"
+    },
+    {
       "title": "Infinite lives",
       "code": "33000A01+0009"
     },
@@ -22,8 +26,8 @@
       "code": "33001427+0020"
     },
     {
-      "title": "Upgrades have all",
-      "code": "43000A03+0202 00000003+0000"
+      "title": "All upgrades unlocked",
+      "code": "33000A03+0002 83000A04+0202 83000A06+0202 33000A08+0002"
     }
   ]
 }

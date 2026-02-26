@@ -9,19 +9,19 @@
   "codes": [
     {
       "title": "Time always 0:00 (white)",
-      "code": "33002278+0000"
+      "code": "32012278+0000"
     },
     {
       "title": "Quick time gain (white)",
-      "code": "33002278+00FF"
+      "code": "32012278+00FF"
     },
     {
       "title": "Time always 0:00 (black)",
-      "code": "33001960+0000"
+      "code": "32011960+0000"
     },
     {
       "title": "Quick time gain (black)",
-      "code": "33001960+00FF"
+      "code": "32011960+00FF"
     }
   ]
 }

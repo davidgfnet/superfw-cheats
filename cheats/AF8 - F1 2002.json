@@ -10,10 +10,6 @@
       "code": "830002F8+0000 830002FA+0000"
     },
     {
-      "title": "Max points (pilots ranking)",
-      "code": "33001D19+00FF"
-    },
-    {
       "title": "Infinite fuel",
       "code": "330003AA+0078"
     },
@@ -24,6 +20,26 @@
     {
       "title": "No damage",
       "code": "830003B0+FFFF 330003B2+0002"
+    },
+    {
+      "title": "Press R button for turbo boost",
+      "code": "D0000020+0100 830003B8+4E20"
+    },
+    {
+      "title": "Press L button to instantly halt",
+      "code": "D0000020+0200 830003B8+0000"
+    },
+    {
+      "title": "Max points (pilots ranking)",
+      "code": "33001D19+00FF"
+    },
+    {
+      "title": "Game 100% complete (press select)",
+      "code": "D0000020+0004 33007D1C+0064"
+    },
+    {
+      "title": "Have all championships won",
+      "code": "D0000020+0004 33007D20+0003"
     }
   ]
 }

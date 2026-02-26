@@ -6,36 +6,36 @@
   ],
   "codes": [
     {
-      "title": "Max blue orbs",
-      "code": "33006EA6+0063"
-    },
-    {
-      "title": "Infinite lives",
-      "code": "33006EA0+0063"
-    },
-    {
       "title": "Infinite health",
-      "code": "33007CF4+0004"
+      "code": "3202FCF4+0004"
     },
     {
       "title": "Max health",
-      "code": "33006EA9+0005"
+      "code": "3202EEA9+0005"
     },
     {
       "title": "Invincible",
-      "code": "83007CD4+0064"
+      "code": "8202FCD4+0064"
+    },
+    {
+      "title": "Max blue orbs",
+      "code": "3202EEA6+0063"
+    },
+    {
+      "title": "Infinite lives",
+      "code": "3202EEA0+0063"
     },
     {
       "title": "Have throwing fist",
-      "code": "33003EE4+0001"
+      "code": "3202BEE4+0001"
     },
     {
       "title": "Have golden fist",
-      "code": "33006E8C+0008"
+      "code": "3202EE8C+0008"
     },
     {
       "title": "Mega jump",
-      "code": "33007CC0+0003"
+      "code": "3202FCC0+0003"
     }
   ]
 }

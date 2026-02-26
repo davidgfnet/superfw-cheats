@@ -14,7 +14,11 @@
     },
     {
       "title": "Invincible",
-      "code": "82000428+FFFF+8200042A+FFFF"
+      "code": "82000428+FFFF 8200042A+FFFF"
+    },
+    {
+      "title": "Moon jump",
+      "code": "D0000020+0001 82000656+0002"
     },
     {
       "title": "Unlock all pictures",

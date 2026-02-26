@@ -6,24 +6,24 @@
   ],
   "codes": [
     {
-      "title": "Infinite Super Bar",
-      "code": "33005C31+0020"
-    },
-    {
-      "title": "Infinite double jumps",
-      "code": "33005517+0001"
+      "title": "Invincible",
+      "code": "3201D5B1+0099"
     },
     {
       "title": "Infinite health",
-      "code": "33005BE5+0020"
+      "code": "3201DBE5+0020"
+    },
+    {
+      "title": "Infinite super bar",
+      "code": "3201DC31+0020"
+    },
+    {
+      "title": "Infinite double jumps",
+      "code": "3201D517+0001"
     },
     {
       "title": "Infinite lives",
-      "code": "330055FB+0063"
-    },
-    {
-      "title": "Invincible",
-      "code": "330055B1+0099"
+      "code": "3201D5FB+0063"
     }
   ]
 }

@@ -5,15 +5,15 @@
   ],
   "codes": [
     {
-      "title": "Infinite Health",
+      "title": "Infinite health",
       "code": "3300189A+0005"
     },
     {
-      "title": "Infinite Ammo",
+      "title": "Infinite ammo",
       "code": "33001892+0005"
     },
     {
-      "title": "999 Coins",
+      "title": "999 coins",
       "code": "83001856+03E7"
     },
     {
@@ -23,6 +23,14 @@
     {
       "title": "Have all chapters",
       "code": "83001874+FFFF 33001876+00FF"
+    },
+    {
+      "title": "Have all treasures",
+      "code": "430017E0+FFFF 00000003+0002"
+    },
+    {
+      "title": "999 coins all chapters",
+      "code": "43001858+03E7 0000000C+0002"
     }
   ]
 }

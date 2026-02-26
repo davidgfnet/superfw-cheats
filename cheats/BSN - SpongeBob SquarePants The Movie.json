@@ -22,8 +22,20 @@
       "code": "830070AC+03E7"
     },
     {
+      "title": "Infinite time (bonus levels)",
+      "code": "730038A8+0008 830038A8+0009"
+    },
+    {
       "title": "Infinite lives",
       "code": "33001444+00FF"
+    },
+    {
+      "title": "Infinite time (in race)",
+      "code": "73003970+0008 83003970+0009"
+    },
+    {
+      "title": "Have all levels open",
+      "code": "43007594+0202 0000003D+0002"
     }
   ]
 }

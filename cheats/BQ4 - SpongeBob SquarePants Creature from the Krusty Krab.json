@@ -6,11 +6,11 @@
   "codes": [
     {
       "title": "Max lives",
-      "code": "330017FE+0009 33006FE0+0009"
+      "code": "320017FE+0009 33006FE0+0009"
     },
     {
       "title": "Collect only 1 hot rod part",
-      "code": "3300183A+0005"
+      "code": "3200183A+0005"
     }
   ]
 }

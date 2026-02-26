@@ -7,19 +7,23 @@
   "codes": [
     {
       "title": "Infinite lives",
-      "code": "33007FF6+0063"
+      "code": "3203FFF6+0063"
     },
     {
       "title": "Infinite power",
-      "code": "83007F66+019A"
+      "code": "8203FF66+019A"
     },
     {
       "title": "Have all abilities",
-      "code": "33007F61+00FF"
+      "code": "3203FF61+00FF"
+    },
+    {
+      "title": "Have all Lums + cages collected",
+      "code": "4203FF70+0000 00000042+0002"
     },
     {
       "title": "Have all levels open",
-      "code": "33007FF5+00FF 83007FF7+FFFF"
+      "code": "3203FFF5+00FF 3203FFF7+00FF 3203FFF8+00FF"
     },
     {
       "title": "Mega jump",

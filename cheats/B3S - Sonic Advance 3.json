@@ -7,16 +7,40 @@
   ],
   "codes": [
     {
+      "title": "Invincible (when moving)",
+      "code": "A30015DC+0000 8300160C+000F"
+    },
+    {
+      "title": "Always have speed shoes",
+      "code": "A30015DC+0000 8300161C+000F"
+    },
+    {
       "title": "Infinite rings",
       "code": "8300094C+03E7"
     },
     {
-      "title": "Always 10 rings",
-      "code": "8300094C+000A"
-    },
-    {
       "title": "Infinite lives",
       "code": "33000954+0009"
+    },
+    {
+      "title": "Infinite / low time",
+      "code": "8300094E+0200"
+    },
+    {
+      "title": "Hold select to pass through certain objects",
+      "code": "D0000020+0004 330015C7+0003"
+    },
+    {
+      "title": "Press L for reverse gravity / press R for normal gravity",
+      "code": "730015DE+0200 830015C6+0001 730015DE+0100 830015C6+0000"
+    },
+    {
+      "title": "Tails never gets tired when flying",
+      "code": "33001708+00D5 730018D4+000A 830018D4+00D5"
+    },
+    {
+      "title": "Cream never gets tired when flying",
+      "code": "33001704+00D5"
     },
     {
       "title": "Enable all characters",
@@ -31,20 +55,28 @@
       "code": "83000562+FFFF"
     },
     {
-      "title": "Unlock Special-Stage mode",
+      "title": "Have all 9 keys",
+      "code": "43000552+0909 00000004+0002"
+    },
+    {
+      "title": "Unlock special stage mode",
       "code": "83004120+000B"
+    },
+    {
+      "title": "Always get a Chaos Emerald",
+      "code": "43004866+0000 00000007+08EC"
+    },
+    {
+      "title": "Have all Chaos found",
+      "code": "43000544+03FF 00000007+0002"
     },
     {
       "title": "Have all Chaos Emeralds",
       "code": "83000562+047F"
     },
     {
-      "title": "Infinite/Low Time",
-      "code": "8300094E+0200"
-    },
-    {
-      "title": "Cream never gets tired when flying",
-      "code": "33001704+00D5"
+      "title": "Mega jump",
+      "code": "D0000020+0001 830015DA+FB00"
     }
   ]
 }

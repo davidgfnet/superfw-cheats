@@ -14,7 +14,11 @@
     },
     {
       "title": "Infinite armor",
-      "code": "82005DCC+270F 82005E6E+270F 82005F10+270F"
+      "code": "82005E6E+270F 82005F10+270F 82005DCC+270F"
+    },
+    {
+      "title": "Press Select + L to complete missions",
+      "code": "74000130+01FB 82002178+0014 74000130+01FB 820021A0+0001"
     }
   ]
 }

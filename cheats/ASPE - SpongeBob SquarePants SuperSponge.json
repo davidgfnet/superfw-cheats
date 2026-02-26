@@ -5,6 +5,10 @@
   ],
   "codes": [
     {
+      "title": "Invincible",
+      "code": "330012FB+00C0"
+    },
+    {
       "title": "Infinite spatulas",
       "code": "33000F32+0063"
     },
@@ -15,10 +19,6 @@
     {
       "title": "Infinite health",
       "code": "330012FA+0000"
-    },
-    {
-      "title": "Invincible",
-      "code": "330012FB+00C0"
     },
     {
       "title": "Infinite jellyfish",

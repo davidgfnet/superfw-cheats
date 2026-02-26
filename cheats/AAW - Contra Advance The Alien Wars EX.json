@@ -6,24 +6,48 @@
   ],
   "codes": [
     {
-      "title": "Infinite lives (player 1)",
-      "code": "33002C60+0063"
-    },
-    {
       "title": "Invincibility",
       "code": "33002CA0+0063"
     },
     {
-      "title": "Quick score gain (player 1)",
+      "title": "Infinite lives P1",
+      "code": "33002C60+0063"
+    },
+    {
+      "title": "Quick score gain P1",
       "code": "83002C64+FFFF"
     },
     {
-      "title": "Max score (player 1)",
+      "title": "Max score P1",
       "code": "83002C64+E0FF 83002C66+05F5"
     },
     {
       "title": "Infinite continues",
       "code": "33001A84+0063"
+    },
+    {
+      "title": "Press Select+Up for Spread",
+      "code": "74000130+03BB 33002CA8+0001"
+    },
+    {
+      "title": "Press Select+Down for C Missiles",
+      "code": "74000130+037B 33002CA8+0002"
+    },
+    {
+      "title": "Press Select+Left for Homing Missiles",
+      "code": "74000130+03DB 33002CA8+0003"
+    },
+    {
+      "title": "Press Select+Right for Flamethrower",
+      "code": "74000130+03EB 33002CA8+0004"
+    },
+    {
+      "title": "Press Select+L Trigger for Laser",
+      "code": "74000130+01FB 33002CA8+0005"
+    },
+    {
+      "title": "Press Select+R Trigger for Tank Missile",
+      "code": "74000130+02FB 33002CA8+0006"
     }
   ]
 }

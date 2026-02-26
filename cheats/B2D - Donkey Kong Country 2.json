@@ -11,20 +11,48 @@
       "code": "330005F6+0063"
     },
     {
-      "title": "Always have partner",
-      "code": "330005F2+0001 330005F4+0000"
-    },
-    {
       "title": "Infinite lives",
       "code": "330005E4+0063"
     },
     {
-      "title": "Max banana boins",
+      "title": "Max banana coins",
       "code": "3300065A+0063"
     },
     {
+      "title": "Moon jump",
+      "code": "D0000020+0001 83004B08+4000"
+    },
+    {
       "title": "Infinite time (bonus stages)",
-      "code": "33002B56+0014"
+      "code": "3200AB56+0014"
+    },
+    {
+      "title": "Have all feathers",
+      "code": "4300066E+FFFF 00000003+0002"
+    },
+    {
+      "title": "Have all DK Koins",
+      "code": "43000666+FFFF 00000004+0002"
+    },
+    {
+      "title": "Have all Krem Koins",
+      "code": "3300065B+00FF 4300065C+FFFF 00000005+0002"
+    },
+    {
+      "title": "Have K.O.N.G letters",
+      "code": "430001E4+0002 00000004+0004"
+    },
+    {
+      "title": "Always have partner",
+      "code": "330005F2+0001 330005F4+0000"
+    },
+    {
+      "title": "Access all areas",
+      "code": "43000640+FFFF 00000006+0002"
+    },
+    {
+      "title": "Progress complete",
+      "code": "8300067E+04FF 43000680+FFFF 0000000A+0002 43000674+FFFF 00000003+0002 43000640+FFFF 00000006+0002"
     }
   ]
 }

@@ -14,12 +14,20 @@
       "code": "83004500+1C4A"
     },
     {
+      "title": "Moon jump",
+      "code": "D0000020+0001 32011754+0080"
+    },
+    {
       "title": "Infinite health",
       "code": "32011774+0008"
     },
     {
       "title": "Infinite power",
       "code": "8201177A+0600"
+    },
+    {
+      "title": "Weak boss",
+      "code": "7201188C+001E 3201188C+0002"
     },
     {
       "title": "Unlock all characters",

@@ -19,6 +19,18 @@
     {
       "title": "Unlock all extras",
       "code": "33001CF0+000F"
+    },
+    {
+      "title": "Start with $50,000",
+      "code": "730038F0+0000 830038F0+C350"
+    },
+    {
+      "title": "Press Select+Up to pause timer",
+      "code": "74000130+03BB 33005000+0001 73005000+0001 330038F6+0032"
+    },
+    {
+      "title": "Press Select+Down to resume timer",
+      "code": "74000130+037B 33005000+0000"
     }
   ]
 }

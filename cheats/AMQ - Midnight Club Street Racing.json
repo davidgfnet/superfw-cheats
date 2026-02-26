@@ -22,8 +22,16 @@
       "code": "33005C58+0000"
     },
     {
+      "title": "Unlock all cars",
+      "code": "43001FF0+0101 00000015+0002"
+    },
+    {
       "title": "Unlock London",
       "code": "33001FA9+0001"
+    },
+    {
+      "title": "Unlock all events",
+      "code": "43001F90+0101 00000019+0002"
     }
   ]
 }

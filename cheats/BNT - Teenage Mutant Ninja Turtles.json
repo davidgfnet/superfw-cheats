@@ -9,12 +9,12 @@
       "code": "33005694+0003"
     },
     {
-      "title": "Maximum power bar",
-      "code": "830055AC+1F00 83007FAC+2000"
+      "title": "Infinite health",
+      "code": "320030ED+0048"
     },
     {
-      "title": "Infinite health",
-      "code": "330030ED+0048"
+      "title": "Press Select to weaken bosses",
+      "code": "D0000020+0004 330048E2+0000"
     },
     {
       "title": "Have all crystals",
@@ -22,15 +22,59 @@
     },
     {
       "title": "Unlock all stages",
-      "code": "83001C79+4927"
+      "code": "33001C79+0027 33001C7A+0049"
     },
     {
-      "title": "One-hit destroys sewer door",
-      "code": "8300504C+0001"
+      "title": "Walk on air",
+      "code": "D0000020+0004 820053EC+13D9 D0000020+0200 820053EC+83D9"
+    },
+    {
+      "title": "1-hit destroys sewer door",
+      "code": "8202D04C+0001"
     },
     {
       "title": "Max score",
-      "code": "8300312C+F000 8300312E+0016"
+      "code": "8200312C+F000 8200312E+0016"
+    },
+    {
+      "title": "Press R+Up to play as Leonardo",
+      "code": "74000130+02BF 83005550+0000"
+    },
+    {
+      "title": "Press R+Left to play as Raphael",
+      "code": "74000130+02DF 83005550+0001"
+    },
+    {
+      "title": "Press R+Right to play as Donatello",
+      "code": "74000130+02EF 83005550+0002"
+    },
+    {
+      "title": "Press R+Down to play as Michaelangelo",
+      "code": "74000130+027F 83005550+0003"
+    },
+    {
+      "title": "1-hit kills enemies/bosses",
+      "code": "430048E2+0000 00000006+0098"
+    },
+    {
+      "title": "Mega jump",
+      "code": "D0000020+0001 E200538C+0030"
+    },
+    {
+      "title": "Infinite bombs for car",
+      "code": "7202D19C+0003 8202D19C+0000"
+    },
+    {
+      "title": "Maximum power bar",
+      "code": "830055AC+1F00 8202FFAC+2000"
+    },
+    {
+      "title": "Have all 100 crystals (Michaelangelo)",
+      "code": "7202D0C8+0000 8202D0C8+0064"
+    },
+    {
+      "title": "Max speed bar (Raph)",
+      "code": "D0000020+0002 8202E334+4400"
     }
   ]
 }

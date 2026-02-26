@@ -11,8 +11,12 @@
       "code": "33001CFF+0064"
     },
     {
-      "title": "Max Power Bar",
+      "title": "Max power bar",
       "code": "33001CD3+0048"
+    },
+    {
+      "title": "Hold A to float upwards",
+      "code": "73001D08+0001 83001C70+0060"
     }
   ]
 }
